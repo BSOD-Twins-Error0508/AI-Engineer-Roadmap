@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>🚀 My Journey to AI Cloud Security Engineer</h1>
+  <h1>🚀 My Journey to AI Engineer & SaaS Architect</h1>
   <p><strong>3 Jahre • 49 Bücher • 34 Projekte • Learning in Public</strong></p>
   
   <img src="https://img.shields.io/badge/Tag-001%2F1932-blue?style=for-the-badge" alt="Tag"/>
