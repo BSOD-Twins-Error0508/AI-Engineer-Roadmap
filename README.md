@@ -10,9 +10,7 @@
   
   <br/><br/>
   
-  <a href="https://linkedin.com/in/DEIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/DEIN-USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-
+  <a href="https://linkedin.com/in/marc-n%C3%B6then-9a844433b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 </div>
 
 ---
@@ -34,7 +32,7 @@
 
 > *"The best time to start was yesterday. The second best time is now."*
 
-Ich dokumentiere meinen kompletten Weg von **[DEIN HINTERGRUND]** zum **Production-Ready AI Engineer & SaaS Architect**.
+Ich dokumentiere meinen kompletten Weg von **[Fachinformatiker Anwendungsentwicklung, Spezialisierung Cyber Security Analyst]** zum **Production-Ready AI Engineer & SaaS Architect**.
 
 ### Warum öffentlich?
 - 🔒 **Accountability**: Öffentliches Commitment = kein Aufgeben
@@ -48,7 +46,7 @@ Ich dokumentiere meinen kompletten Weg von **[DEIN HINTERGRUND]** zum **Producti
 
 | 📖 Aktuelles Buch | 🎓 Aktueller Kurs |
 |-------------------|-------------------|
-| [BUCHNAME] | [KURSNAME] |
+| [Advanced Guide to Python 3] | [CS50P (Harvard)] |
 | Kapitel: X/Y | Modul: X/Y |
 
 ---
