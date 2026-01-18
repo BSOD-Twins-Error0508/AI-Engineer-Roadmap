@@ -46,8 +46,8 @@ Ich dokumentiere meinen kompletten Weg von **[Fachinformatiker Anwendungsentwick
 
 | 📖 Aktuelles Buch | 🎓 Aktueller Kurs |
 |-------------------|-------------------|
-| [Advanced Guide to Python 3] | [CS50P (Harvard)] |
-| Kapitel: X/Y | Modul: X/Y |
+| Advanced Guide to Python 3 | CS50P (Harvard) |
+| Kapitel: Complete | Modul: 5/8 |
 
 ---
 
@@ -78,7 +78,7 @@ Phase 6: Cloud & Production       ░░░░░░░░░░░░░░░�
 <details>
 <summary><b>📘 Phase 1: Python & KI-Grundlagen (Monat 1-4)</b></summary>
 
-- [ ] 📖 Advanced Guide to Python 3 Programming
+- [X] 📖 Advanced Guide to Python 3 Programming
 - [ ] 📖 Clean Code
 - [ ] 📖 Grokking Algorithms
 - [ ] 📖 The Pragmatic Programmer
@@ -125,9 +125,8 @@ Phase 6: Cloud & Production       ░░░░░░░░░░░░░░░�
 
 ## 🤝 Kontakt
 
-- 💼 **LinkedIn**: [DEIN LINK]
-- 🐦 **Twitter**: [DEIN LINK]
-- 📧 **Email**: [DEINE EMAIL]
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/marc-j-n%C3%B6then-b201a315b/)
+- 📧 **Email**: marcjannis89@gmail.com
 
 ---
 
