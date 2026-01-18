@@ -1,7 +1,7 @@
 <div align="center">
   
-  <h1>🚀 My Journey to AI Engineer</h1>
-  <p><strong>5.3 Jahre • 49 Bücher • 34 Projekte • Learning in Public</strong></p>
+  <h1>🚀 My Journey to AI Cloud Security Engineer</h1>
+  <p><strong>3 Jahre • 49 Bücher • 34 Projekte • Learning in Public</strong></p>
   
   <img src="https://img.shields.io/badge/Tag-001%2F1932-blue?style=for-the-badge" alt="Tag"/>
   <img src="https://img.shields.io/badge/Phase-1%2F6-orange?style=for-the-badge" alt="Phase"/>
