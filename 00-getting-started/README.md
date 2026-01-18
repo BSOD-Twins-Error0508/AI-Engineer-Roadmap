@@ -2,7 +2,7 @@
 
 ## 📋 Der Plan
 - **Pro Woche**: ~14 Stunden
-- **Gesamtdauer**: ~5.3 Jahre
+- **Gesamtdauer**: ~3 Jahre
 - **49 Bücher** | **36 Kurse** | **34 Projekte**
 
 ## 🛠️ Mein Setup
