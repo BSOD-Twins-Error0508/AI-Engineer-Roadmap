@@ -120,7 +120,7 @@ Phase 6: Cloud & Production       ░░░░░░░░░░░░░░░�
 
 ## 📚 Ressourcen
 
-[📂 Vollständige Ressourcenliste](resources/RESOURCES.md)
+[📂 Vollständige Ressourcenliste](resources.md)
 
 ---
 
