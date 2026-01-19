@@ -1,4 +1,4 @@
-# 📅 Tag 001 | 2025-01-XX
+# 📅 Tag 001 | 2026-01-XX
 
 > 🎉 **Der erste Tag meiner AI Engineer Reise!**
 

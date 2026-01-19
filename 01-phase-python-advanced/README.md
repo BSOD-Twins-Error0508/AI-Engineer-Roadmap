@@ -16,12 +16,12 @@
 
 ## 🎓 Kurse
 
-| Kurs | Status |
-|------|--------|
-| CS50P | ⏳ |
-| Karpathy Neural Networks | ⏳ |
-| 3Blue1Brown Linear Algebra | ⏳ |
-| Andrew Ng ML | ⏳ |
+| Kurs                       | Status |
+| -------------------------- | ------ |
+| CS50P                      | ⏳      |
+| Karpathy Neural Networks   | ⏳      |
+| 3Blue1Brown Linear Algebra | ⏳      |
+| Andrew Ng ML               | ⏳      |
 
 ## 💻 Projekte (7)
 
