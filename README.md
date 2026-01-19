@@ -1,7 +1,12 @@
 <div align="center">
   
+<<<<<<< HEAD
   <h1>🚀 My Journey to AI Engineer</h1>
   <p><strong>5.3 Jahre • 49 Bücher • 34 Projekte • Learning in Public</strong></p>
+=======
+  <h1>🚀 My Journey to AI Engineer & SaaS Architect</h1>
+  <p><strong>3 Jahre • 49 Bücher • 34 Projekte • Learning in Public</strong></p>
+>>>>>>> 66a5e76b71101909d743ede85906303f8e3ffd95
   
   <img src="https://img.shields.io/badge/Tag-001%2F1932-blue?style=for-the-badge" alt="Tag"/>
   <img src="https://img.shields.io/badge/Phase-1%2F6-orange?style=for-the-badge" alt="Phase"/>
@@ -10,9 +15,13 @@
   
   <br/><br/>
   
+<<<<<<< HEAD
   <a href="https://linkedin.com/in/DEIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://twitter.com/DEIN-USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
+=======
+  <a href="https://linkedin.com/in/marc-n%C3%B6then-9a844433b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+>>>>>>> 66a5e76b71101909d743ede85906303f8e3ffd95
 </div>
 
 ---
@@ -34,7 +43,11 @@
 
 > *"The best time to start was yesterday. The second best time is now."*
 
+<<<<<<< HEAD
 Ich dokumentiere meinen kompletten Weg von **[DEIN HINTERGRUND]** zum **Production-Ready AI Engineer & SaaS Architect**.
+=======
+Ich dokumentiere meinen kompletten Weg von **[Fachinformatiker Anwendungsentwicklung, Spezialisierung Cyber Security Analyst]** zum **Production-Ready AI Engineer & SaaS Architect**.
+>>>>>>> 66a5e76b71101909d743ede85906303f8e3ffd95
 
 ### Warum öffentlich?
 - 🔒 **Accountability**: Öffentliches Commitment = kein Aufgeben
@@ -48,8 +61,13 @@ Ich dokumentiere meinen kompletten Weg von **[DEIN HINTERGRUND]** zum **Producti
 
 | 📖 Aktuelles Buch | 🎓 Aktueller Kurs |
 |-------------------|-------------------|
+<<<<<<< HEAD
 | [BUCHNAME] | [KURSNAME] |
 | Kapitel: X/Y | Modul: X/Y |
+=======
+| Advanced Guide to Python 3 | CS50P (Harvard) |
+| Kapitel: Complete | Modul: 5/8 |
+>>>>>>> 66a5e76b71101909d743ede85906303f8e3ffd95
 
 ---
 
@@ -80,7 +98,11 @@ Phase 6: Cloud & Production       ░░░░░░░░░░░░░░░�
 <details>
 <summary><b>📘 Phase 1: Python & KI-Grundlagen (Monat 1-4)</b></summary>
 
+<<<<<<< HEAD
 - [ ] 📖 Advanced Guide to Python 3 Programming
+=======
+- [X] 📖 Advanced Guide to Python 3 Programming
+>>>>>>> 66a5e76b71101909d743ede85906303f8e3ffd95
 - [ ] 📖 Clean Code
 - [ ] 📖 Grokking Algorithms
 - [ ] 📖 The Pragmatic Programmer
@@ -127,9 +149,14 @@ Phase 6: Cloud & Production       ░░░░░░░░░░░░░░░�
 
 ## 🤝 Kontakt
 
+<<<<<<< HEAD
 - 💼 **LinkedIn**: [DEIN LINK]
 - 🐦 **Twitter**: [DEIN LINK]
 - 📧 **Email**: [DEINE EMAIL]
+=======
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/marc-j-n%C3%B6then-b201a315b/)
+- 📧 **Email**: marcjannis89@gmail.com
+>>>>>>> 66a5e76b71101909d743ede85906303f8e3ffd95
 
 ---
 
