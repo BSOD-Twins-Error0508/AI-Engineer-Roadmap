@@ -120,7 +120,7 @@ Phase 6: Cloud & Production       ░░░░░░░░░░░░░░░�
 
 ## 📚 Ressourcen
 
-[📂 Vollständige Ressourcenliste](resources.md)
+[📂 Vollständige Ressourcenliste](1_Projects/Hobby/AI-Engineer-Roadmap-github/Resources/course-resources/resources.md)
 
 ---
 
