@@ -107,33 +107,6 @@ Design:      Custom Dark Theme
 
 ![Categories](https://claude.ai/chat/screenshots/categories.png)
 
-## 📈 Was ich dabei gelernt habe
-
-### Technische Skills
-
-- **GUI-Entwicklung** mit PyQt6
-    
-    - Event-Handling
-    - Custom Styling mit QSS
-    - Tab-basierte Navigation
-- **Datenbankdesign**
-    
-    - Normalisierung
-    - Context Manager für sichere Connections
-    - Effiziente Queries
-- **Software-Architektur**
-    
-    - Separation of Concerns (GUI / Logic / Data)
-    - Modularität für einfache Erweiterung
-
-### Herausforderungen & Lösungen
-
-|Problem|Lösung|
-|---|---|
-|SQLite Connections blieben offen|Context Manager implementiert|
-|UI eingefroren bei DB-Operationen|Asynchrone Updates geplant (v2.0)|
-|Dark Mode flackerte beim Toggle|Stylesheet-Caching eingebaut|
-
 ## 🔮 Roadmap
 
 ### Version 2.0 (In Planung)
