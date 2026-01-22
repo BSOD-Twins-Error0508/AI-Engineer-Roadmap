@@ -20,4 +20,7 @@ print(dir(str))
 # help(methode) oder help("dee".methode) = Sagt dir wsa die Methode genau tut
 help(str.capitalize)
 
+
 # %%
+
+
