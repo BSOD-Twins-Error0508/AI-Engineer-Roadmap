@@ -1,0 +1,779 @@
+C:\Users\lukas\Documents\Obsidian Desktop\2_Areas\Mediathek-Area\Ebook-Area
+├── Libary-Experts
+│   ├── Libary-AI
+│   │   ├── AI Engineering-DE.pdf
+│   │   ├── Building Chatbots with Python _ Using Natural Language de.pdf
+│   │   ├── Building LLMs for Production_ Enhancing LLM Abilities and-Peters-Louie.pdf
+│   │   ├── Deep Reinforcement Learning Hands-On _ Apply Modern RL-DE.pdf
+│   │   ├── Deep learning for coders with fastai and PyTorch _ AI -- Jeremy Howard-DE.pdf
+│   │   ├── Deep learning for coders with fastai and PyTorch _ AI -- Jeremy Howard.pdf
+│   │   ├── Designing Bots_ Creating Conversational Experience de.pdf
+│   │   ├── Designing Deep Learning Systems_ A software engineer's guide-ChiWang.pdf
+│   │   ├── Foundations of Deep Reinforcement Learning de.pdf
+│   │   ├── PyTorch Artificial Intelligence Fundamentals _ A de.pdf
+│   │   ├── Python natural language processing_ advanced machine de.pdf
+│   │   ├── Reinforcement Learning, Second Edition _ An Introduction-DE.pdf
+│   │   ├── The Hundred-Page Machine Learning Book -- Adriy Bur.pdf
+│   │   └── The Hundred-Page Machine Learning Book-AndriyBurkov.pdf
+│   ├── Libary-CompTIA
+│   │   ├── CompTIA A+.pdf
+│   │   ├── CompTIA Network+_ Computer-Netzwerke verständlich erläutert_2024.pdf
+│   │   ├── CompTIA PenTest+ Study Guide 3rd Edition2025_1.pdf
+│   │   ├── CompTIA Security+ -- IT-Sicherheit verständlich erklärt-Markus Kammermann .pdf
+│   │   ├── CompTIA Server+ Serversysteme einrichten und betreiben.pdf
+│   │   ├── CompTIA Tech+ Study Guide_ Exam FC0-U71-2024.pdf
+│   │   └── FC0-U61_ CompTIA IT Fundamentals (ITF+) Certification.pdf
+│   ├── Libary-Cybersecurity
+│   │   ├── 1-Grundlagen & Fundament
+│   │   │   ├── 1-Hacking_ Hacking_ How to Hack, Penetration Testing Hacking.pdf
+│   │   │   ├── 2-Hacking_ Learn fast Hack to hack, strategies and hacking.pdf
+│   │   │   ├── 3-Hacking-Der-Umfassende-Praxis-Guide(2024).pdf
+│   │   │   ├── 4-A Mind For Numbers -- Barbara Oakley.pdf
+│   │   │   └── Netzwerke_ Verstehen, Einrichten, Administrieren_Mit -- Eric Amberg, Daniel Schmid -- 2025.pdf
+│   │   ├── 2-Theoretische Vertiefung
+│   │   │   ├── 1-Grey Hat Hacking -- Vitalsource Download.pdf
+│   │   │   ├── 2-Hacking The Art Of Exploitation 2nd EditionJon Erickson.pdf
+│   │   │   ├── 3-Soft Skills_ The Software Developer's Life Manual.pdf
+│   │   │   ├── 4-The Pragmatic Programmer for Machine Learning _ Engineering.pdf
+│   │   │   └── 5-_Design Patterns_ Elements of Reusable Object-Oriented.pdf
+│   │   ├── 3-Scripting & Automatisierung Grundlagen
+│   │   │   ├── 1-Linux Bash Scripts
+│   │   │   │   ├── 1-Bash cookbook _ solutions and examples for bash users.pdf
+│   │   │   │   ├── 2-Pro Bash _ Learn to Script and Program the GNU_Linux Shell.pdf
+│   │   │   │   └── 3-Wicked Cool Shell Scripts _ 101 Scripts for Linux, OS X,.pdf
+│   │   │   ├── 2-PowerShell Scripts
+│   │   │   │   ├── 1-PowerShell for sysadmins _ a hands-on guide to automating.pdf
+│   │   │   │   ├── 2-Mastering PowerShell Scripting for SysAdmins___2024.pdf
+│   │   │   │   ├── 3-PowerShell for Penetration Testing _ Explore the.pdf
+│   │   │   │   └── 4-POWERSHELL AUTOMATION AND SCRIPTING FOR CYBERSECURITY.pdf
+│   │   │   └── 3-Go-Programmierung
+│   │   │       ├── 1-Go Programming Blueprints_ Build real-world.pdf
+│   │   │       ├── 2-Black hat Go _ Go programming for hackers and pentesters.pdf
+│   │   │       ├── 3-Go in Practice, Second Edition.pdf
+│   │   │       ├── 4-Mastering Go_ Leverage Go's expertise for advanced.pdf
+│   │   │       ├── 5-Network Programming with Go Language _ Essential Skills for.pdf
+│   │   │       └── 6-Network Programming with Go_ Learn to Code Secure and.pdf
+│   │   ├── 4-Python für Cybersecurity
+│   │   │   ├── 1-Ethical Hacking with Python -- Abdou Rockikz -- 2022.pdf
+│   │   │   ├── 10-Ethical Hacker's Penetration Testing Guide .pdf
+│   │   │   ├── 11-Mehr Hacking mit Python · Eigene Tools entwickeln für Hacker.pdf
+│   │   │   ├── 12-Python-Powered Ethical Hacking_ Building Advanced.pdf
+│   │   │   ├── 13-Packet Manipulation with Scapy_ Build your own network.pdf
+│   │   │   ├── 14-Python for Engineering and Scientific Computing.pdf
+│   │   │   ├── 15-Forensic Investigations with Python_ Learn about metadata.pdf
+│   │   │   ├── 2-Network Programming in Python_ The Basic_ A Detailed Guide.pdf
+│   │   │   ├── 3-Network programming and automation essentials _ get started.pdf
+│   │   │   ├── 4-Mastering Asynchronous Network Programming with Python de.pdf
+│   │   │   ├── 5-Information Gathering with Python_ Performing DNS -- Abdeladim Fadheli.pdf
+│   │   │   ├── 6-Build an Email Spider with Python_ Building an advanced.pdf
+│   │   │   ├── 7-Cryptography with Python -- Muhammad Abdullahi & Abdeladim Fadheli.pdf
+│   │   │   ├── 8-Building Password Crackers with Python_ Create your own PDF.pdf
+│   │   │   └── 9-Building Malware with Python_ Write your own malware such as.pdf
+│   │   ├── 5-Spezialisierte Bereiche
+│   │   │   ├── 1-Pentesting Active Directory and Windows-based Infrastructure-Dennis-Isakov.pdf
+│   │   │   ├── 1-Web Application Security
+│   │   │   │   ├── 1-Addison Wesley - Web Hacking_ Attacks and Defense.pdf
+│   │   │   │   ├── 2-Real-World Bug Hunting - A Field Guide to Web Hacking.pdf
+│   │   │   │   ├── 3-Essential Cryptography for JavaScript Developers.pdf
+│   │   │   │   ├── 4-Essential Node_js Security for Express Web Applications.pdf
+│   │   │   │   ├── 5-The Tangled Web _ A Guide to Securing Modern Web.pdf
+│   │   │   │   └── 6-Web security for developers _ real threats, practical.pdf
+│   │   │   ├── 2-Reverse Engineering & Exploit Development
+│   │   │   │   ├── 1-Assembly Language for X86 Processors 8th Edition.pdf
+│   │   │   │   ├── 2-Gray hat C# _ a hacker's guide to creating and automating.pdf
+│   │   │   │   ├── 3-Practical Reverse Engineering _ X86, X64, ARM, Windows.pdf
+│   │   │   │   ├── 4-PracticalMemoryForensic.pdf
+│   │   │   │   ├── 5-Reversing_ Secrets of Reverse Engineering.pdf
+│   │   │   │   ├── 6-SEI CERT C Coding Standard_ Rules for Developing Safe- Carnegie Mellon University.pdf
+│   │   │   │   ├── 7-The Rootkit Arsenal_ Escape and Evasion in the Dark Corners_Bill Blunden_2nd.pdf
+│   │   │   │   └── 8-Hacking The Art Of Exploitation 2nd EditionJon Erickson.pdf
+│   │   │   ├── 3-Forensic-&-Simulation
+│   │   │   │   ├── 1-Cyber Forensics Up and Running_ A hands-on guide to digital.pdf
+│   │   │   │   └── 2-Modeling and Simulation in Python _ An Introduction for.pdf
+│   │   │   ├── 4-Hardware Security
+│   │   │   │   └── 1-Praktische_Einfhrung_in_Hardware_Hacking.pdf
+│   │   │   ├── 5-IoT Security
+│   │   │   │   └── The IoT Hacker's Handbook (A Practical Guide to Hacking the.pdf
+│   │   │   ├── 6-Mobile Security
+│   │   │   │   └── Mobile_Hacking.pdf
+│   │   │   ├── MASTERING ACTIVE DIRECTORY - THIRD EDITION.pdf
+│   │   │   ├── Penetration Testing Azure for Ethical Hackers_ Develop.pdf
+│   │   │   └── [The Hacker Playbook 03] • Practical Guide To Penetration.pdf
+│   │   ├── Black Hat Python, 2nd Edition _ Python Programming for-2nd edition.pdf
+│   │   ├── C#-in-Depth-Fourth-Edition--Jon-Skeet-Manning-Publications.pdf
+│   │   ├── Cloud-Engineering
+│   │   │   ├── 1-General-Cloud Security
+│   │   │   │   ├── 1-CLOUD SECURITY HANDBOOK _ find out how to effectively secure.pdf
+│   │   │   │   ├── 2-Practical Cloud Security.pdf
+│   │   │   │   └── 3-Cloud Penetration Testing for Red Teamers _ Learn How to.pdf
+│   │   │   ├── 2-AWS_Security
+│   │   │   │   ├── 1-The Ultimate AWS® Certified Cloud Practitioner Training.pdf
+│   │   │   │   ├── 2-AWS Certified Cloud Practitioner CLF-C02 Cert Guide.pdf
+│   │   │   │   ├── 3-AWS Certified Solutions Architect - Associate.pdf
+│   │   │   │   ├── 4-aws-certified-security-specialty-scs-c02-2nd.pdf
+│   │   │   │   └── 5-Mastering AWS security _ create and maintain a secure cloud.pdf
+│   │   │   ├── 3-Azure_Security
+│   │   │   │   ├── 1-Azure Security -- Bojan Magusic.pdf
+│   │   │   │   ├── 2-Microsoft Azure Security center.pdf
+│   │   │   │   └── 3-Microsoft Azure Security Infrastructure.pdf
+│   │   │   ├── 4-Google_Cloud_Platform_(GCP)_Security
+│   │   │   │   ├── 1-Visualizing Google Cloud _ 101 Illustrated References for.pdf
+│   │   │   │   ├── 2-Google Cloud Platform (GCP) Professional Cloud Security.pdf
+│   │   │   │   ├── 3-Google Cloud Platform in Action -- JJ Geewax.pdf
+│   │   │   │   ├── 4-Official Google Cloud Certified Professional Cloud Security.pdf
+│   │   │   │   └── 5-Terraform for Google Cloud Essential Guide _ Learn How to.pdf
+│   │   │   ├── 5-Container&Orchestrierung Security
+│   │   │   │   ├── 1-Docker Security Essentials -- HackerSploit.pdf
+│   │   │   │   ├── 2-Kubernetes in Action, Second Edition MEAP V15_2023.pdf
+│   │   │   │   └── 3-Hacking Kubernetes _ threat-driven analysis and defense.pdf
+│   │   │   ├── 6-DevSecOps & Infrastructure as Code
+│   │   │   │   ├── 1-Securing DevOps _ Security in the Cloud.pdf
+│   │   │   │   ├── 2-Terraform  Up and Running (Early Release) -- Yevgeniy Brikman.pdf
+│   │   │   │   ├── 3-Security as code _ devsecops patterns with aws -- BK  Sarthak  Das;.pdf
+│   │   │   │   └── 4-Implementing DevOps on AWS _ Bring the Best Out of DevOps.pdf
+│   │   │   ├── AWS Certified Solutions Architect Study Guide with 900.pdf
+│   │   │   └── Blockchain Security From the Bottom Up _ Securing and.pdf
+│   │   ├── Mastering Blockchain - Fourth Edition (Early Access).pdf
+│   │   ├── Netzwerke_ Verstehen, Einrichten, Administrieren_Mit -- Eric Amberg, Daniel Schmid -- 2025.pdf
+│   │   ├── The Blockchain Developer _ A Practical Guide for Designing.mobi
+│   │   ├── The Pragmatic Programmer_ Your Journey to Master.pdf
+│   │   └── The Self-Taught Cloud Computing Engineer _ A Comprehensive.pdf
+│   ├── Libary-Cybersteps-THM-With-Books
+│   │   ├── 01_BTFM_SOC-Level-1_&_Security-Engineer
+│   │   │   ├── Blue Team Handbook - SOC, SIEM & Threats Hunting Use Cases -- Don Murdoch2019-DE.pdf
+│   │   │   └── Blue Team Handbook - SOC, SIEM & Threats Hunting Use Cases -- Don Murdoch2019.pdf
+│   │   ├── 02_Threat-Detection_SOC-Level-2_&_Endpoint
+│   │   │   └── Practical Threat Detection Engineering _ A Hands-on Guide to-Megan Roddie.pdf
+│   │   ├── 03_Cloud-Security_AWS_&_Azure-Grundlagen
+│   │   │   └── Practical Cloud Security_ A Guide for Secure Design and -- Chris Dotson; -- 2nd, 2023.pdf
+│   │   ├── 04_DFIR_Advanced-Endpoint_&_SOC-Response
+│   │   │   └── Digital Forensics and Incident Response - Third Edition_ -- Gerard Johansen -- 3, 2022 -- Packt Publishing.pdf
+│   │   ├── 05_Cloud-Native_Security-Engineer_&_Cloud-Architektur
+│   │   │   └── Cloud Native Patterns _ Designing Change-tolerant Software.pdf
+│   │   ├── 06_AI-Cybersecurity_AI-Hunting_&_ML-Forensik
+│   │   │   └── Artificial Intelligence for Cybersecurity_ Develop AI -- Bojan Kolosnjaji;Huang Xiao;Peng Xu;Apostolis Zarras.pdf
+│   │   ├── 07_Social-Engineering_Phishing_&_Human-Risk
+│   │   │   └── Practical Social Engineering _ A Primer for the Ethical -- Joe Gray.pdf
+│   │   ├── 08_M365-Security_Azure-Entra_&_Defender
+│   │   │   └── Microsoft 365 Security, Compliance, and Identity -- Peter Rising -- converted, 2023 .pdf
+│   │   ├── 09_Attack-Defense-Strategies_SOC-Level-2_&_Zero-Trust
+│   │   │   └── Cybersecurity-Attack-and-Defense-Strategies-Yuri-Diogeneses2024.pdf
+│   │   └── Bücherliste & Kategorie.md
+│   ├── Libary-Enterprise-Leadership-&-Business-Management
+│   │   ├── Extreme Ownership_ How U_S_ Navy SEALs Lead and Win.pdf
+│   │   ├── Good Strategy_Bad Strategy_ The difference and why.pdf
+│   │   ├── Herding Cats _ A Primer for Programmers Who Lead Programmers.pdf
+│   │   ├── Modern CTO_ Everything you need to know, to be a Modern CTO-Beasley-Joel.pdf
+│   │   ├── Practical Packet Analysis_ Using Wireshark to Solve.pdf
+│   │   ├── Team Topologies_ Organizing Business and Technology Teams.pdf
+│   │   ├── The Effective Executive -- Peter F_ Drucker, Joseph A_ Maciariello.pdf
+│   │   ├── The Hard Thing About Hard Things [Hardcover], What You Do Is.pdf
+│   │   ├── The Improvement Guide_ A Practical Approach to Enhancing.pdf
+│   │   ├── The Lean Startup _ How Today's Entrepreneurs Use Continuous.pdf
+│   │   ├── The manager's path _ a guide for tech leaders navigating.pdf
+│   │   ├── Think Like a CTO - MEAP Version 2 -- Alan Williamson.pdf
+│   │   └── Turn the Ship Around! - A True Story of Turning Followers.pdf
+│   ├── Libary-Math
+│   │   ├── (K)ein Gespür für Zahlen_ So bekommt man den Durchblick in -- Barbara A Oakley.pdf
+│   │   ├── Applying Math with Python 2022.pdf
+│   │   ├── Essential Math for AI.pdf
+│   │   ├── Mathematik für Informatiker_ Ein praxisbezogenes Lehrbuch.pdf
+│   │   ├── Mathematik für den Studieneinstieg_ Ein mathematischer.pdf
+│   │   ├── Übungsbuch Statistik für Dummies2024.pdf
+│   │   └── Übungsbuch zur Linearen Algebra _ Aufgaben und ausführliche.pdf
+│   ├── Libary-Soft-Skills-&-Führungskompetenzen
+│   │   ├── Connect _ building exceptional relationships with family.epub
+│   │   ├── Crucial Conversations Tools for Talking When Stakes Are.mobi
+│   │   ├── Dare to Lead_ Brave Work_ Tough Conversations_ Whole Hearts.epub
+│   │   ├── Difficult Conversations_ How to Discuss What Matters Most.epub
+│   │   ├── Drive _ The Surprising Truth About What Motivates Us.epub
+│   │   ├── EMOTIONAL INTELLIGENCE.pdf
+│   │   ├── Getting to Yes_ Negotiating Agreement Without Giving In -- Roger Fisher & William L_ Ury & Bruce Patton.epub
+│   │   ├── Never split the difference _ negotiating as if your life.epub
+│   │   ├── Nonviolent Communication_ A Language of Life_ Life-Changing.pdf
+│   │   ├── Radical Candor_ Be a Kick-Ass Boss Without Losing Your.pdf
+│   │   ├── Talk Like TED_ The 9 Public-Speaking Secrets of the World's.epub
+│   │   ├── The Art of ex·plan·ation _ How to Communicate with Clarity.epub
+│   │   ├── The Culture Code _ The Secrets of Highly Successful Groups.pdf
+│   │   ├── The Five Dysfunctions of a team, A leadership fable.pdf
+│   │   └── The Listening Leader ePub eBook_ How to drive performance by.pdf
+│   ├── Libary-Software-Engineering
+│   │   ├── Algorithmen-Books
+│   │   │   ├── 50 Algorithms Every Programmer Should Know_ An unbeatable -- Imran Ahmad -- 2nd ed_, PS, 2023 -- Packt Publishing, Limited; Packt Publishing - ebooks -- 9781803246475 -- 86a6c4f6ac99059e1c7ce240e2e67699 -- Anna’s A.pdf
+│   │   │   ├── Cracking the coding interview _ 189 programming interview -- Gayle Laakmann McDowell -- Библиотека программиста, 6-е изд_, Санкт-Петербург [и др_], -- 9780984782857 -- 3df233104f51d7fdd83b450425935d41 -- Anna’s Arc.pdf
+│   │   │   ├── Grokking Algorithms, Second Edition -- Aditya Y_ Bhargava -- 2, 2nd, US, 2024 -- Manning Publications Co_ LLC -- 9781633438538 -- 6014af49a9c4c513b76f29b74a869e3f -- Anna’s Archive.pdf
+│   │   │   └── Introduction to Algorithms, Fourth Edition -- Thomas H_ Cormen;Charles E_ Leiserson;Ronald L_ -- MIT Press, Cambridge, Massachusetts, 2022 -- The MIT -- 9780262046305 -- a91d937c924e37fed686192258d59417 -- Anna’s A.pdf
+│   │   ├── C#-in-Depth-Fourth-Edition--Jon-Skeet-Manning-Publications.pdf
+│   │   ├── Cloud-Engineering
+│   │   │   ├── 1-General-Cloud Security
+│   │   │   │   ├── 1-CLOUD SECURITY HANDBOOK _ find out how to effectively secure.pdf
+│   │   │   │   ├── 2-Practical Cloud Security.pdf
+│   │   │   │   └── 3-Cloud Penetration Testing for Red Teamers _ Learn How to.pdf
+│   │   │   ├── 2-AWS_Security
+│   │   │   │   ├── 1-The Ultimate AWS® Certified Cloud Practitioner Training.pdf
+│   │   │   │   ├── 2-AWS Certified Cloud Practitioner CLF-C02 Cert Guide.pdf
+│   │   │   │   ├── 3-AWS Certified Solutions Architect - Associate.pdf
+│   │   │   │   ├── 4-aws-certified-security-specialty-scs-c02-2nd.pdf
+│   │   │   │   └── 5-Mastering AWS security _ create and maintain a secure cloud.pdf
+│   │   │   ├── 3-Azure_Security
+│   │   │   │   ├── 1-Azure Security -- Bojan Magusic.pdf
+│   │   │   │   ├── 2-Microsoft Azure Security center.pdf
+│   │   │   │   └── 3-Microsoft Azure Security Infrastructure.pdf
+│   │   │   ├── 4-Google_Cloud_Platform_(GCP)_Security
+│   │   │   │   ├── 1-Visualizing Google Cloud _ 101 Illustrated References for.pdf
+│   │   │   │   ├── 2-Google Cloud Platform (GCP) Professional Cloud Security.pdf
+│   │   │   │   ├── 3-Google Cloud Platform in Action -- JJ Geewax.pdf
+│   │   │   │   ├── 4-Official Google Cloud Certified Professional Cloud Security.pdf
+│   │   │   │   └── 5-Terraform for Google Cloud Essential Guide _ Learn How to.pdf
+│   │   │   ├── 5-Container&Orchestrierung Security
+│   │   │   │   ├── 1-Docker Security Essentials -- HackerSploit.pdf
+│   │   │   │   ├── 2-Kubernetes in Action, Second Edition MEAP V15_2023.pdf
+│   │   │   │   └── 3-Hacking Kubernetes _ threat-driven analysis and defense.pdf
+│   │   │   ├── 6-DevSecOps & Infrastructure as Code
+│   │   │   │   ├── 1-Securing DevOps _ Security in the Cloud.pdf
+│   │   │   │   ├── 2-Terraform  Up and Running (Early Release) -- Yevgeniy Brikman.pdf
+│   │   │   │   ├── 3-Security as code _ devsecops patterns with aws -- BK  Sarthak  Das;.pdf
+│   │   │   │   └── 4-Implementing DevOps on AWS _ Bring the Best Out of DevOps.pdf
+│   │   │   ├── AWS Certified Solutions Architect Study Guide with 900.pdf
+│   │   │   └── Blockchain Security From the Bottom Up _ Securing and.pdf
+│   │   ├── Full-Stack-Entwicklung
+│   │   │   ├── 1-Fundamentale Grundlagen
+│   │   │   │   └── 1-You Don't Know JS.pdf
+│   │   │   ├── 2-Backend-Entwicklung & Architektur
+│   │   │   │   ├── 2-Node_js Design Patterns_ Design and implement.pdf
+│   │   │   │   └── 3-Advanced Guide to Python 3 Programming (Undergraduate Topics.pdf
+│   │   │   ├── 3-Full-Stack Framework Spezialisierung
+│   │   │   │   ├── 4-Modern Full-Stack Development_ Using TypeScript, React.pdf
+│   │   │   │   └── 5-Modern Full-Stack React Projects_ Build, maintain.pdf
+│   │   │   ├── 4-Alternative Technologien & Erweiterung
+│   │   │   │   └── 6-Full-Stack Web Development with Go _ Build Your Web.pdf
+│   │   │   ├── 5-Umfassende Integration & Mastery
+│   │   │   │   └── 7-The Complete Developer _ Master the Full Stack with.pdf
+│   │   │   ├── 6-Programmiersprachen & Tools
+│   │   │   │   ├── 1-Advanced_Programming_with_Python.pdf
+│   │   │   │   ├── 2-Coding for fun mit C#.pdf
+│   │   │   │   ├── 3-Coding for fun mit C++.pdf
+│   │   │   │   ├── 4-Coding for fun mit Python [garantiert kein Lehrbuch! .pdf
+│   │   │   │   ├── 6-Ethical Hacking with Python.pdf
+│   │   │   │   ├── 7-Learning Data Mining with Python _ Harness the Power.pdf
+│   │   │   │   ├── 8-Mastering Asynchronous Network Programming with Python.pdf
+│   │   │   │   └── 9-Mathematische Algorithmen mit Python Aufgaben vom Sieb des.pdf
+│   │   │   ├── 7-Frontend-Spezialisierung
+│   │   │   │   ├── 1-Angular _ up and running _ learning Angular, step by step .pdf
+│   │   │   │   ├── 2-Angular in Action -- Jeremy Wilken; Safari, an O'Reilly Media Company.pdf
+│   │   │   │   ├── 3-Building Design Systems _ Unify User Experiences Through a.pdf
+│   │   │   │   ├── 4-Frontend Architecture for Design Systems.pdf
+│   │   │   │   ├── 5-Frontend Development Projects with Vue_js 3, 2nd Edition.pdf
+│   │   │   │   ├── 6-Micro Frontends in Action -- Michael Geers.pdf
+│   │   │   │   ├── 7-Pro Angular_ Build Powerful and Dynamic Web Apps.pdf
+│   │   │   │   └── 8-Vue_js 3 Design Patterns and Best Practices _ Develop.pdf
+│   │   │   ├── 8-Software-as-a-Service (SaaS)
+│   │   │   │   ├── 1-Building Multi-Tenant SaaS Architectures_ Principles.pdf
+│   │   │   │   ├── 2-Software as a Science_ Unlock Limitless Recurring Revenue.pdf
+│   │   │   │   ├── 3-The Lean Startup -- Eric Ries.pdf
+│   │   │   │   └── 4-The SaaS Playbook_ Build a Multimillion Dollar Startup.pdf
+│   │   │   └── desktop.ini
+│   │   ├── Fundament
+│   │   │   ├── 50 Algorithms Every Programmer Should Know de.pdf
+│   │   │   ├── Clean Architecture.pdf
+│   │   │   ├── Clean_Code_-_Refactoring_Patterns_Testen_und_Techniken.pdf
+│   │   │   └── Clean_Coder.pdf
+│   │   ├── Mastering Blockchain - Fourth Edition (Early Access).pdf
+│   │   ├── Netzwerke_ Verstehen, Einrichten, Administrieren_Mit -- Eric Amberg, Daniel Schmid -- 2025.pdf
+│   │   ├── Software-Architecture
+│   │   │   ├── Learning React _ Modern Patterns for Developing React Apps.pdf
+│   │   │   ├── Sieben Wochen, sieben Sprachen _ verstehen Sie die modernen.pdf
+│   │   │   └── The Pragmatic Programmer_ Your Journey To Mastery.pdf
+│   │   ├── The Blockchain Developer _ A Practical Guide for Designing.mobi
+│   │   └── The Self-Taught Cloud Computing Engineer _ A Comprehensive.pdf
+│   └── Libary-Wallstreet-&-Trading
+│       ├── Praxis-Algo-Trading
+│       │   ├── Advancs in Financial Machine Learning de.pdf
+│       │   ├── Algorithmic Trading Systems and Strategies_ A New Approach de.pdf
+│       │   ├── Algorithmic Trading_ Winning Strategies and Their Rationale -- Ernie Chan2013-DE.pdf
+│       │   ├── Deep Learning for Finance_ Creating Machine and Deep-2024 de.pdf
+│       │   ├── HANDS-ON DEEP LEARNING FOR FINANCE _ implement deep learning de.pdf
+│       │   ├── Quantitative Trading_ How to Build Your Own Algorithmic-Ernest P_ Chan2021 de.pdf
+│       │   ├── Trading and Exchanges _ Market Microstructure for -- Harris, Larry de.pdf
+│       │   └── Verlag Applied Quantitative Finance de.pdf
+│       ├── Praxis-Trading
+│       │   ├── Richard Dennis und Turtle Trading
+│       │   │   ├── The complete turtletrader _ how 23 novice investors became de.pdf
+│       │   │   └── Way of the turtle_ the secret methods of legendary traders de.pdf
+│       │   └── Trading General
+│       │       ├── Market Wizards_ The Best Traders You've Never Heard Jack D_ Schwager de.pdf
+│       │       ├── Option Volatility and Pricing_ Advanced Trading Strategies Sheldon Natenberg-DE.pdf
+│       │       ├── Security Analysis, Sixth Edition, Part VII - Additional -- Graham, Benjamin-DE.pdf
+│       │       ├── The Art & Science of Technical Analysis_ Market Structure-DE.pdf
+│       │       ├── The New Trading for a Living -- Dr_ Alexander Elder de.pdf
+│       │       ├── Trend Following Masters_ Trading Psychology Conversations 2 de.pdf
+│       │       └── Unknown Market Wizards (paperback) -- Jack D_ Schwager.pdf
+│       ├── WallStreet
+│       │   ├── Jim Simons - Finacial Mathamatics
+│       │   │   ├── 0-Bücher von oder über Jim Simons.md
+│       │   │   ├── A Primer For The Mathematics Of Financial Engineering, -- Stefanica, Dan de.pdf
+│       │   │   ├── Financial Mathematics _ A Practical Guide for Actuaries de.pdf
+│       │   │   ├── Methods of Mathematical Finance (Stochastic Modelling and -- Ioannis Karatzas de.pdf
+│       │   │   ├── Options-Futures-and Other Derivatives 11th Edition -- John Hull-DE.pdf
+│       │   │   └── The Man Who Solved the Market _ How Jim Simons Launched the de.pdf
+│       │   └── WallStreet Psychology & Winning Psychology
+│       │       ├── Athletic Excellence_ Mental Toughness Training for Sports de.pdf
+│       │       ├── Beschreibung.md
+│       │       ├── Black edge _ inside information, dirty money, and  de.pdf
+│       │       ├── King of Capital _ The Remarkable Rise, Fall de.pdf
+│       │       ├── Market mind games _ a radical psychology of investing de.pdf
+│       │       ├── Mastering Trading Stress_ Strategies for Maximizing -- Ari Kiev de.pdf
+│       │       ├── The Mental Strategies of Top Traders _ The Psychological -- Kiev, Ari de.pdf
+│       │       ├── The Only Way to Win _ How Building Character Drives High-DE.pdf
+│       │       ├── The Power of Full Engagement _ Managing Energy, Not Time-de.pdf
+│       │       └── Trading to Win_ The Psychology of Mastering the Markets -- Kiev, Ari de.pdf
+│       └── Werde ein Quant
+│           ├── Bücher
+│           │   ├── Phase-0
+│           │   │   ├── An Introduction to Quantitative Finance -- Stephen Cleveland Blyth de.pdf
+│           │   │   ├── An Introduction to Quantitative Finance -- Stephen Cleveland Blyth.pdf
+│           │   │   ├── Mathematics for Finance_ An Introduction to Financial -- Capiński, Marek, Zastawniak de.pdf
+│           │   │   └── Mathematics for Finance_ An Introduction to Financial -- Capiński, Marek, Zastawniak.pdf
+│           │   ├── Phase-1
+│           │   │   ├── A Primer For The Mathematics Of Financial Engineering--Stefanica-Dan de.pdf
+│           │   │   ├── A Primer For The Mathematics Of Financial Engineering--Stefanica-Dan.pdf
+│           │   │   ├── Options, Futures, and Other Derivatives, 11th edition -- John C_ Hull-de.pdf
+│           │   │   ├── Options, Futures, and Other Derivatives, 11th edition -- John C_ Hull.pdf
+│           │   │   ├── Paul Wilmott Introduces Quantitative Finance -- Paul Wilmott-de.pdf
+│           │   │   ├── Paul Wilmott Introduces Quantitative Finance -- Paul Wilmott.pdf
+│           │   │   ├── Solutions Manual - A Primer for the Mathematics of Financial--by-Dan-Stefanica de.pdf
+│           │   │   └── Solutions Manual - A Primer for the Mathematics of Financial--by-Dan-Stefanica.pdf
+│           │   ├── Phase-2
+│           │   │   ├── PYTHON FOR DATA ANALYSIS _ data wrangling with pandas, -- Wes McKinney de.pdf
+│           │   │   ├── PYTHON FOR DATA ANALYSIS _ data wrangling with pandas, -- Wes McKinney.pdf
+│           │   │   ├── Quantitative Trading_ How to Build Your Own Algorithmic--Chan-Ernest-P de.pdf
+│           │   │   ├── Quantitative Trading_ How to Build Your Own Algorithmic--Chan-Ernest-P.pdf
+│           │   │   ├── Stochastic Calculus for Finance I_ The Binomial Asset--Steven-E-Shreve de.pdf
+│           │   │   ├── Stochastic Calculus for Finance I_ The Binomial Asset--Steven-E-Shreve.pdf
+│           │   │   ├── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi-DE.pdf
+│           │   │   └── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi.pdf
+│           │   └── Phase-3
+│           │       ├── A Practical Guide To Quantitative Finance Interviews--Xinfeng Zhou de.pdf
+│           │       ├── A Practical Guide To Quantitative Finance Interviews--Xinfeng Zhou.pdf
+│           │       ├── Advances in Financial Machine Learning -- Marcos Lopez de Prado de.pdf
+│           │       ├── Advances in Financial Machine Learning -- Marcos Lopez de Prado.pdf
+│           │       ├── Paul Wilmott on Quantitative Finance 3 Volume Set (2nd -- Paul Wilmott-DE.pdf
+│           │       ├── Paul Wilmott on Quantitative Finance 3 Volume Set (2nd -- Paul Wilmott.pdf
+│           │       ├── Stochastic Calculus Models for Finance II_ Continuous Time -- Shreve, Steven-DE.pdf
+│           │       └── Stochastic Calculus Models for Finance II_ Continuous Time -- Shreve, Steven.pdf
+│           └── Lern Reihenfolge.md
+├── Libary-Private-Reading
+│   ├── ADHS
+│   │   ├── ADHS ist kein Makel_ Hilfreiche Strategien für Kinder u_ -- Edward M_ Hallowell.pdf
+│   │   └── Driven to Distraction (Revised)_ Recognizing and Coping with -- Edward M_ Hallowell.pdf
+│   ├── Allgemeinwissen -- Enzyklopädisches Wissen
+│   │   ├── A short history of nearly everything -- Bill Bryson de.pdf
+│   │   ├── Astrophysics for People in a Hurry -- Neil deGrasse Tyson de.pdf
+│   │   ├── Cosmos -- Carl Sagan de.pdf
+│   │   ├── Guns, Germs and Steel -- Jared, Diamond de.pdf
+│   │   ├── Predictably Irrational -- Dan Ariely de.pdf
+│   │   ├── Schwarzer Schwan die Macht höchst -- Taleb, Nassim.pdf
+│   │   ├── The Demon-Haunted World -- Carl Sagan de.pdf
+│   │   ├── The Lessons of History -- Will Durant; Ariel Durant de.pdf
+│   │   └── The Selfish Gene -- Richard Dawkins de.pdf
+│   ├── Biografien & Erfolgsgeschichten
+│   │   ├── Mr_ Microsoft die Bill-Gates-Story.pdf
+│   │   ├── Shoe Dog_ Die offizielle Biografie des NIKE-Gründers.pdf
+│   │   └── The Founders_ Die Geschichte von Paypal und den.pdf
+│   ├── Coach Wooden
+│   │   ├── 12 Rules For Life Ordnung und Struktur in einer chaotischen.pdf
+│   │   ├── Coach Wooden's Pyramid Of Success _ Building Blocks For A -- John Wooden.pdf
+│   │   ├── Coach Wooden's leadership game plan for success _ 12 lessons -- John Wooden.pdf
+│   │   ├── The essential Wooden _ a lifetime of lessons on leaders and -- John Wooden.pdf
+│   │   └── Wooden on Leadership _ How to Create a Winning Organizaion -- John Wooden.pdf
+│   ├── Denken & Philosophie
+│   │   ├── Deep Thinking
+│   │   │   ├── Big Magic Nimm dein Leben in die Hand und es wird dir -- Gilbert, Elizabeth.pdf
+│   │   │   ├── Das erschöpfte Gehirn_ Der Ursprung unserer mentalen Energie -- Michael Nehls.pdf
+│   │   │   ├── Gödel, Escher, Bach_ ein Endloses Geflochtenes Band.pdf
+│   │   │   ├── Superforecasting – Die Kunst der richtigen Prognose.pdf
+│   │   │   └── The Great Mental Models General Thinking Concepts de.pdf
+│   │   ├── Klassische Philosophie – Grundlagen des Denkens und Urteilens
+│   │   │   ├── Aristoteles_ Die Nikomachische Ethik.pdf
+│   │   │   └── Meditationen -- Marcus Aurelius -- 101 .pdf
+│   │   ├── Moderne Philosophie & Rationalität
+│   │   │   ├── Die Kunst des klaren Denkens 52 Denkfehler, die Sie besser.pdf
+│   │   │   └── Immanuel Kant Kritik Der Reinen Vernunft.pdf
+│   │   └── Strategisches & praktisches Denken
+│   │       ├── Die fünfte Disziplin _ Kunst und Praxis der lernenden.pdf
+│   │       ├── Good strategy, bad strategy _ the difference and why itde.pdf
+│   │       └── Thinking in bets - wie man immer die richtige Karte spielt .pdf
+│   ├── Finanzielle Intelligenz
+│   │   ├── 4 Hour Work Week, 2009 -- Timothy Ferriss de.pdf
+│   │   ├── Auf der Strasse des Erfolgs - Hill.pdf
+│   │   ├── Common Stocks and Uncommon Profits and Other Writings-Wiley -- Fisher de.pdf
+│   │   ├── Der Einzimmer-Millionär_ Wie du gar nicht mehr verhindern -- Gerald Hörhan.pdf
+│   │   ├── Die Prinzipien des Erfolgs (German Edition) -- Dalio, Ray.pdf
+│   │   ├── Financial Freedom_ A Proven Path to All the Money You Will -- Grant Sabatier de.pdf
+│   │   ├── I Will Teach You to Be Rich_ No Guilt, No Excuses - Just a -- Ramit Sethi de.pdf
+│   │   ├── Intelligent Investieren · Mit Abstand das beste Buch, das -- Graham, Benjamin.pdf
+│   │   ├── MILLENNIAL MILLIONAIRE NEXT DOOR _ the secrets of americas -- Thomas J_ Stanley de.pdf
+│   │   ├── Rich Dad Poor Dad_ Was die Reichen ihren Kindern über Geld -- Kiyosaki, Robert.pdf
+│   │   ├── The Little Book of Common Sense Investing, Updated and -- Bogle, John C-DE.pdf
+│   │   ├── The simple path to wealth -- JL Collins de.pdf
+│   │   ├── Your Money or Your Life _ 9 Steps to Transforming Your -- Vicki Robin de.pdf
+│   │   └── Über die Psychologie des Geldes _ Zeitlose Lektionen über -- Morgan Housel.pdf
+│   ├── Gesundheit & Ernährung
+│   │   ├── Darmflora - Mikrobiom - Wissenschaft
+│   │   │   ├── Darm mit Charme _ Alles über ein unterschätztes Organ-Giulia Enders.pdf
+│   │   │   └── Heilen mit der Kraft der Natur_ Meine Erfahrung aus Praxis.pdf
+│   │   ├── Gesundheit - Ulrich Strunz
+│   │   │   ├── 111-Tipps-für-einen-gesunden-Körper-Ulrich-Strunz.pdf
+│   │   │   ├── 77-Tipps-für-einen-gesunden-Darm-Ulrich-Strunz.pdf
+│   │   │   ├── 88 Tipps gegen Depressionen und Burnout -- Strunz, Ulrich.pdf
+│   │   │   ├── Das Stress-weg-Buch – Das Geheimnis der Resilienz_ Was -- Strunz, Ulrich.pdf
+│   │   │   ├── Das Strunz-Low-Carb-Kochbuch_ Über 150 Rezepte_ mediterran-Ulrich Strunz.pdf
+│   │   │   ├── Der Gen-Trick_ Gute Gene einschalten, Krankheiten vorbeugen -- Dr_ med_ Ulrich Strunz.pdf
+│   │   │   └── Die Amino-Revolution -- Ulrich Strunz.pdf
+│   │   ├── Kochbücher - Darmflora
+│   │   │   ├── 30 Pflanzen pro Woche_ Das Kochbuch für ein langes gesundes.pdf
+│   │   │   ├── Emmas Feelgood-Küche _ 100 einfache und leckere -- Emma Hatcher.pdf
+│   │   │   └── Schlank mit Darm Kochbuch - 100 Rezepte für eine gesunde.pdf
+│   │   └── Nie wieder dick nach der Abnehmspritze_ Die Dr_ Riedl-Formel.pdf
+│   ├── Ich werde wie Michael Jordan
+│   │   ├── Driven From Within -- Michael Jordan.pdf
+│   │   ├── How to be like Mike _ life lessons about basketball's best -- Jordan, Michael.pdf
+│   │   ├── Jump Attack_ The Formula for Explosive Athletic Performance, -- Tim S_ Grover.pdf
+│   │   ├── Kompromisslos Relentless _ wie Du Deine Leistungsgrenzen -- Tim Grover.pdf
+│   │   ├── Michael Jordan _ The Life -- Jordan, Michael;Lazenby, Roland.pdf
+│   │   ├── Playing for Keeps _ Michael Jordan and the World He Made -- David Halberstam.pdf
+│   │   ├── The Jordan Rules_ The Inside Story of One Turbulent Season -- Sam  Smith.pdf
+│   │   └── Winning_ The Unforgiving Race to Greatness -- Tim S_ Grover.pdf
+│   ├── Kindererziehung ab 3 Jahren
+│   │   ├── Babyjahre Entwicklung und Erziehung in den ersten vier -- Remo H_ .pdf
+│   │   └── Kinder verstehen Born to be wild_ Wie die Evolution unsere.pdf
+│   ├── Kinderförderung ab 3 Jahren
+│   │   ├── Dein kompetentes Kind – Auf dem Weg zu einer neuen.pdf
+│   │   └── Montessori von Anfang an _ Ein Praxishandbuch für die ersten.pdf
+│   ├── Lernen & Selbstoptimierung
+│   │   ├── Englisch Lernen durch Lesen
+│   │   │   ├── Animal Farm -- George Orwell.pdf
+│   │   │   ├── Harry Potter and the Philosopher’s Stone -- J_ K_ Rowling.pdf
+│   │   │   ├── Mockingjay (The Final Book of The Hunger Games)Suzanne Collins.pdf
+│   │   │   ├── Of Mice and Men -- John Steinbeck.pdf
+│   │   │   ├── The Curious Incident of the Dog in the Night-Time -- Mark Haddo.pdf
+│   │   │   ├── The Great Gatsby -- F_ Scott Fitzgerald.pdf
+│   │   │   ├── The Lightning Thief (Percy Jackson and the Olympians Book.pdf
+│   │   │   └── Wonder -- R J Palacio.pdf
+│   │   ├── High Performance & Brain
+│   │   │   ├── Peak Performance absolute Spitzenleistung mit den neuesten.pdf
+│   │   │   ├── The Practice_ Shipping Creative Work -- Seth Godin de.pdf
+│   │   │   └── The-secret-thoughts-of-successful-de.pdf
+│   │   └── Lernen Lernen
+│   │       ├── Learn like a pro _ science-based tools to become better at-de.pdf
+│   │       ├── Limitless_ Wie du schneller lernst und dein Potenzial-Jim-Kwik.pdf
+│   │       ├── Scott-Young-Ultra-Learning
+│   │       │   ├── Fokus-Map.png
+│   │       │   ├── Ten_Mental_Models_for_Learning_Anything.pdf
+│   │       │   ├── The_Complete_Guide_to_Memory.pdf
+│   │       │   ├── The_Complete_Guide_to_Motivation.pdf
+│   │       │   ├── The_Complete_Guide_to_Self-Control.pdf
+│   │       │   └── The_Complete_Guide_to_Working_Memory.pdf
+│   │       ├── Ultralearning_ Die ultimative Methode um sich in Rekordzeit 2024.pdf
+│   │       └── Uncommon Sense Teaching _ Practical Insights in Brain-de.pdf
+│   ├── Logik-Kognition-Denkschule
+│   │   ├── Deep Thinking
+│   │   │   ├── Big Magic Nimm dein Leben in die Hand und es wird dir -- Gilbert, Elizabeth.pdf
+│   │   │   ├── Das erschöpfte Gehirn_ Der Ursprung unserer mentalen Energie -- Michael Nehls.pdf
+│   │   │   ├── Gödel, Escher, Bach_ ein Endloses Geflochtenes Band.pdf
+│   │   │   ├── Superforecasting – Die Kunst der richtigen Prognose.pdf
+│   │   │   └── The Great Mental Models General Thinking Concepts de.pdf
+│   │   ├── Klassische Philosophie – Grundlagen des Denkens und Urteilens
+│   │   │   ├── Aristoteles_ Die Nikomachische Ethik.pdf
+│   │   │   └── Meditationen -- Marcus Aurelius -- 101 .pdf
+│   │   ├── Moderne Philosophie & Rationalität
+│   │   │   ├── Die Kunst des klaren Denkens 52 Denkfehler, die Sie besser.pdf
+│   │   │   └── Immanuel Kant Kritik Der Reinen Vernunft.pdf
+│   │   └── Strategisches & praktisches Denken
+│   │       ├── Die fünfte Disziplin _ Kunst und Praxis der lernenden.pdf
+│   │       ├── Good strategy, bad strategy _ the difference and why itde.pdf
+│   │       └── Thinking in bets - wie man immer die richtige Karte spielt .pdf
+│   ├── Napoleon Hill - Die offizielle und authorisierte Biografie.pdf
+│   ├── Panikattacken und andere Angststörungen loswerden_ Wie die -- Klaus Bernhardt .pdf
+│   ├── Problemlösung
+│   │   ├── How_to_solve_it_-_George_Polya de.pdf
+│   │   ├── How_to_solve_it_-_George_Polya.pdf
+│   │   ├── The_Pragmatic_Programmer_-_David_Thomas de.pdf
+│   │   ├── The_Pragmatic_Programmer_-_David_Thomas.pdf
+│   │   ├── Think_Like_a_Programmer_-_V_Anton_Spraul de.pdf
+│   │   └── Think_Like_a_Programmer_-_V_Anton_Spraul.pdf
+│   ├── Programmierung & Software-Entwicklung
+│   │   └── NET MAUI in Action (MEAP V06)-Matt Goldman.pdf
+│   ├── Psychologie-Persönlichkeitsentwicklung
+│   │   ├── Die 1%-Methode – Minimale Veränderung, maximale Wirkung_ Mit -- Clear, James.pdf
+│   │   ├── Drive_-The-Surprising-Truth-About-What-Motivates-Us-Daniel-H-Pink-DE.pdf
+│   │   ├── Emotionale Intelligenz & Einfluss
+│   │   │   ├── Die Psychologie des Überzeugens_ Wie Sie sich selbst.pdf
+│   │   │   ├── Emotional intelligence _ why it can matter more than IQ -- Daniel Goleman de.pdf
+│   │   │   └── The Power of Now_ A Guide to Spiritual Enlightenment -- Eckhart Tolle de.pdf
+│   │   ├── Erfolgreiche-Menschen-mit-ADHS
+│   │   │   ├── FASTER THAN NORMAL _ turbocharge your focus, productivity, -- Edward Hallowell de.pdf
+│   │   │   ├── Faster-Than-Normal-Peter-Shankman de.pdf
+│   │   │   └── The-ADHD-Advantage-What-You-Thought-Was-a-Diagnosis-May-Be-Dale-Archer  de.pdf
+│   │   ├── Impulskontrolle
+│   │   │   ├── Natural Relief for Adult ADHD _ Complementary Strategies for  de.pdf
+│   │   │   ├── Overcoming Impulse Control Problems_ A Cognitive-Behavioral de.pdf
+│   │   │   ├── Stop Me Because I Can't Stop Myself.pdf
+│   │   │   ├── The Mindfulness Prescription for Adult ADHD _ An 8-Step de.pdf
+│   │   │   └── The disorganized mind _ coaching your ADHD brain to take de.pdf
+│   │   ├── Intrinsische Motivation
+│   │   │   ├── Die 1%-Methode – Minimale Veränderung, maximale Wirkung.pdf
+│   │   │   ├── Drive · Was Sie wirklich motiviert -- Pink, Daniel H.pdf
+│   │   │   ├── Flow im Beruf das Geheimnis des Glücks am Arbeitsplatz.pdf
+│   │   │   ├── Grit -- Angela Duckworth de.pdf
+│   │   │   └── Selbstbild_ Wie unser Denken Erfolge oder Niederlagen.pdf
+│   │   ├── Psychologie und Entscheidungsfindung
+│   │   │   ├── Daniel Kahneman Schnelles Denken, langsames Denken .pdf
+│   │   │   ├── Nudge _ Wie man kluge Entscheidungen anstößt -- Richard H_ Thaler.pdf
+│   │   │   └── Predictably Irrational -- Dan Ariely [Ariely, Dan] -- 2009  de.pdf
+│   │   ├── Stefanie-Stahl
+│   │   │   ├── Das Kind in dir muss Heimat finden _ in drei Schritten zum -- Stefanie Stahl.pdf
+│   │   │   ├── Das Kind in dir muss Heimat finden-Dokument.pdf
+│   │   │   ├── Nestwärme, die Flügel verleiht_ Halt geben und Freiheit 1.pdf
+│   │   │   ├── Nestwärme, die Flügel verleiht_ Halt geben und Freiheit.pdf
+│   │   │   ├── So bin ich eben! im Job_ Typengerecht arbeiten im Team_ der -- Stefanie Stahl 1.pdf
+│   │   │   ├── So bin ich eben! im Job_ Typengerecht arbeiten im Team_ der -- Stefanie Stahl.pdf
+│   │   │   ├── So stärken Sie Ihr Selbstwertgefühl-Stefanie-Stahl.pdf
+│   │   │   └── Wer wir sind -- Stahl, Stefanie.pdf
+│   │   ├── Zeitlose Weisheit und Lebensführung
+│   │   │   ├── Antifragilität - Anleitung für eine Welt - die wir nicht -- Taleb, Na.pdf
+│   │   │   ├── Designing Your Life_ How to Build a Well-Lived, Joyful Life -- Bill Burnett.pdf
+│   │   │   ├── Die 7 Wege zur Effektivität _ Prinzipien für persönlichen -- Stephen .pdf
+│   │   │   ├── Do hard things _ why we get resilience wrong and the -- Steve Magness de.pdf
+│   │   │   ├── Du-bist-der-Hammer!-Hör-endlich-auf-Sincero-Jen.pdf
+│   │   │   ├── Ikigai - Die japanische Lebenskunst -- Ken'ichirō Mogi.pdf
+│   │   │   └── Man's search for meaning _ an introduction to logotherapy - de.pdf
+│   │   └── Ängste Bekämpfen
+│   │       └── Feel-the-Fear-and-Do-It-Anyway--Susan-Jeffers de.pdf
+│   ├── Sucht & Genesung
+│   │   ├── Allen Carr & Süchte
+│   │   │   ├── Easy Way to Quit Cocaine -- Allen John Carr de.pdf
+│   │   │   ├── Endlich Nichtraucher! - Der einfache Weg.pdf
+│   │   │   ├── The Easy Way to Quit Caffeine de.pdf
+│   │   │   └── The easy way to quit sugar  de.pdf
+│   │   └── Drogen-Kokainsucht
+│   │       ├── Cocaine addiction _ treatment, recovery, and relapse.pdf
+│   │       ├── I Forgot to Die -- Khalil Rafati -- 2015 de.pdf
+│   │       └── The cocaine recovery book de.pdf
+│   └── Ängste überwinden _ Hilfe für Betroffene und Angehörige -- Günter Niklewski, Rose Riecke-Niklewski.pdf
+└── Zu--Sortieren
+    ├── Building a Second Brain _ A Proven Method to Organize Your Tiago Forte.pdf
+    ├── Hacking & Security Das umfassende Handbuch -- Michael Kofler-2023.pdf
+    ├── Praxiseinstieg Machine Learning mit Scikit-Learn, Keras und Aktuell zu TensorFlow 2.pdf
+    └── Zu Groß - Noch Teilen & Übersetzen
+        ├── Allgemeinwissen -- Enzyklopädisches Wissen
+        │   ├── A Little History of the World -- E_ H_ Gombrich -- Yale University.pdf
+        │   │   ├── A Little History of the World -- E_ H_ Gombrich -- Yale University-001-100.pdf
+        │   │   ├── A Little History of the World -- E_ H_ Gombrich -- Yale University-101-200.pdf
+        │   │   ├── A Little History of the World -- E_ H_ Gombrich -- Yale University-201-300.pdf
+        │   │   ├── A Little History of the World -- E_ H_ Gombrich -- Yale University-301-400.pdf
+        │   │   └── A Little History of the World -- E_ H_ Gombrich -- Yale University-401-469.pdf
+        │   ├── Collapse_ How Societies Choose to Fail or Succeed -- Diamond, Jared.pdf
+        │   │   ├── Collapse_ How Societies Choose to Fail or Succeed -- Diamond, Jared-001-150.pdf
+        │   │   ├── Collapse_ How Societies Choose to Fail or Succeed -- Diamond, Jared-151-300.pdf
+        │   │   ├── Collapse_ How Societies Choose to Fail or Succeed -- Diamond, Jared-301-450.pdf
+        │   │   ├── Collapse_ How Societies Choose to Fail or Succeed -- Diamond, Jared-451-600.pdf
+        │   │   └── Collapse_ How Societies Choose to Fail or Succeed -- Diamond, Jared-601-679.pdf
+        │   ├── Sapiens and Homo Deus -- Yuval Noah Harari
+        │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari (1).pdf
+        │   │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari-001-150.pdf
+        │   │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari-151-300.pdf
+        │   │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari-301-450.pdf
+        │   │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari-451-600.pdf
+        │   │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari-601-750.pdf
+        │   │   │   ├── Sapiens and Homo Deus -- Yuval Noah Harari-751-900.pdf
+        │   │   │   └── Sapiens and Homo Deus -- Yuval Noah Harari-901-902.pdf
+        │   │   └── Sapiens and Homo Deus -- Yuval Noah Harari.pdf
+        │   ├── The Better Angels of Our Nature
+        │   │   ├── The Better Angels of Our Nature (1).pdf
+        │   │   │   ├── The Better Angels of Our Nature-0001-0150.pdf
+        │   │   │   ├── The Better Angels of Our Nature-0151-0300.pdf
+        │   │   │   ├── The Better Angels of Our Nature-0301-0450.pdf
+        │   │   │   ├── The Better Angels of Our Nature-0451-0600.pdf
+        │   │   │   ├── The Better Angels of Our Nature-0601-0750.pdf
+        │   │   │   ├── The Better Angels of Our Nature-0751-0900.pdf
+        │   │   │   ├── The Better Angels of Our Nature-0901-1050.pdf
+        │   │   │   ├── The Better Angels of Our Nature-1051-1200.pdf
+        │   │   │   └── The Better Angels of Our Nature-1201-1261.pdf
+        │   │   └── The Better Angels of Our Nature.pdf
+        │   ├── The Gene -- Siddhartha Mukherjee -- Scribner
+        │   │   ├── The Gene -- Siddhartha Mukherjee -- Scribner (1).pdf
+        │   │   │   ├── The Gene -- Siddhartha Mukherjee -- Scribner-001-150.pdf
+        │   │   │   ├── The Gene -- Siddhartha Mukherjee -- Scribner-151-300.pdf
+        │   │   │   ├── The Gene -- Siddhartha Mukherjee -- Scribner-301-450.pdf
+        │   │   │   ├── The Gene -- Siddhartha Mukherjee -- Scribner-451-600.pdf
+        │   │   │   ├── The Gene -- Siddhartha Mukherjee -- Scribner-601-750.pdf
+        │   │   │   └── The Gene -- Siddhartha Mukherjee -- Scribner-751-828.pdf
+        │   │   └── The Gene -- Siddhartha Mukherjee -- Scribner.pdf
+        │   ├── The Silk Roads -- Peter Frankopan
+        │   │   ├── The Silk Roads -- Peter Frankopan (1).pdf
+        │   │   │   ├── The Silk Roads -- Peter Frankopan-001-100.pdf
+        │   │   │   ├── The Silk Roads -- Peter Frankopan-101-200.pdf
+        │   │   │   ├── The Silk Roads -- Peter Frankopan-201-300.pdf
+        │   │   │   ├── The Silk Roads -- Peter Frankopan-301-400.pdf
+        │   │   │   └── The Silk Roads -- Peter Frankopan-401-496.pdf
+        │   │   └── The Silk Roads -- Peter Frankopan.pdf
+        │   ├── The Story of Philosophy -- Will Durant
+        │   │   ├── The Story of Philosophy -- Will Durant (1).pdf
+        │   │   │   ├── The Story of Philosophy -- Will Durant-001-110.pdf
+        │   │   │   ├── The Story of Philosophy -- Will Durant-111-220.pdf
+        │   │   │   ├── The Story of Philosophy -- Will Durant-221-330.pdf
+        │   │   │   └── The Story of Philosophy -- Will Durant-331-440.pdf
+        │   │   └── The Story of Philosophy -- Will Durant.pdf
+        │   └── The history of the ancient world _ from the earliest -- Susan Wise Bauer.pdf
+        │       ├── The history of the ancient world _ from the earliest -- Susan Wise Bauer-0001-0200.pdf
+        │       ├── The history of the ancient world _ from the earliest -- Susan Wise Bauer-0201-0400.pdf
+        │       ├── The history of the ancient world _ from the earliest -- Susan Wise Bauer-0401-0600.pdf
+        │       ├── The history of the ancient world _ from the earliest -- Susan Wise Bauer-0601-0800.pdf
+        │       ├── The history of the ancient world _ from the earliest -- Susan Wise Bauer-0801-1000.pdf
+        │       └── The history of the ancient world _ from the earliest -- Susan Wise Bauer-1001-1093.pdf
+        ├── Finanzielle Intelligenz
+        │   ├── A Random Walk Down Wall Street_ The Best Investment Guide
+        │   │   ├── A Random Walk Down Wall Street_ The Best Investment Guide (1).pdf
+        │   │   │   ├── A Random Walk Down Wall Street_ The Best Investment Guide-001-102.pdf
+        │   │   │   ├── A Random Walk Down Wall Street_ The Best Investment Guide-103-204.pdf
+        │   │   │   ├── A Random Walk Down Wall Street_ The Best Investment Guide-205-306.pdf
+        │   │   │   ├── A Random Walk Down Wall Street_ The Best Investment Guide-307-408.pdf
+        │   │   │   └── A Random Walk Down Wall Street_ The Best Investment Guide-409-434.pdf
+        │   │   └── A Random Walk Down Wall Street_ The Best Investment Guide.pdf
+        │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan
+        │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan (1).pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-0001-0300.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-0301-0600.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-0601-0900.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-0901-1200.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-1201-1500.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-1501-1800.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-1801-2100.pdf
+        │   │   │   ├── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-2101-2400.pdf
+        │   │   │   └── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan-2401-2433.pdf
+        │   │   └── Incerto 5-Book Bundle_ Fooled by Randomness, The Black Swan.pdf
+        │   └── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0001-0150.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0151-0300.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0301-0450.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0451-0600.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0601-0750.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0751-0900.pdf
+        │       ├── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-0901-1050.pdf
+        │       └── MONEY Master the Game_ 7 Simple Steps to Financial Freedom -- Robbins, Tony-1051-1127.pdf
+        ├── Jim Simons - Finacial Mathamatics
+        │   ├── Paul Wilmott on Quantitative Finance Vol 1-3, 2nd Ed -- Paul Wilmott.pdf
+        │   │   ├── Paul Wilmott on Quantitative Finance Vol 1-3, 2nd Ed -- Paul Wilmott-001-150.pdf
+        │   │   ├── Paul Wilmott on Quantitative Finance Vol 1-3, 2nd Ed -- Paul Wilmott-151-300.pdf
+        │   │   ├── Paul Wilmott on Quantitative Finance Vol 1-3, 2nd Ed -- Paul Wilmott-301-450.pdf
+        │   │   ├── Paul Wilmott on Quantitative Finance Vol 1-3, 2nd Ed -- Paul Wilmott-451-600.pdf
+        │   │   └── Paul Wilmott on Quantitative Finance Vol 1-3, 2nd Ed -- Paul Wilmott-601-725.pdf
+        │   └── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi.pdf
+        │       ├── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi-001-080.pdf
+        │       ├── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi-081-160.pdf
+        │       ├── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi-161-240.pdf
+        │       └── The Concepts and Practice of Mathematical Finance -- Mark Suresh Joshi-241-278.pdf
+        └── Praxis-Algo-Trading
+            ├── Algorithmic Trading Methods _ Applications Using Advanced
+            │   ├── Algorithmic Trading Methods _ Applications Using Advanced (1).pdf
+            │   │   ├── Algorithmic Trading Methods _ Applications Using Advanced-001-102.pdf
+            │   │   ├── Algorithmic Trading Methods _ Applications Using Advanced-103-204.pdf
+            │   │   ├── Algorithmic Trading Methods _ Applications Using Advanced-205-306.pdf
+            │   │   ├── Algorithmic Trading Methods _ Applications Using Advanced-307-408.pdf
+            │   │   ├── Algorithmic Trading Methods _ Applications Using Advanced-409-510.pdf
+            │   │   ├── Algorithmic Trading Methods _ Applications Using Advanced-511-612.pdf
+            │   │   └── Algorithmic Trading Methods _ Applications Using Advanced-613-614.pdf
+            │   └── Algorithmic Trading Methods _ Applications Using Advanced.pdf
+            ├── Machine Learning for Algorithmic Trading_ Predictive models
+            │   ├── Machine Learning for Algorithmic Trading_ Predictive models (1).pdf
+            │   │   ├── Machine Learning for Algorithmic Trading_ Predictive models-001-150.pdf
+            │   │   ├── Machine Learning for Algorithmic Trading_ Predictive models-151-300.pdf
+            │   │   ├── Machine Learning for Algorithmic Trading_ Predictive models-301-450.pdf
+            │   │   ├── Machine Learning for Algorithmic Trading_ Predictive models-451-600.pdf
+            │   │   ├── Machine Learning for Algorithmic Trading_ Predictive models-601-750.pdf
+            │   │   └── Machine Learning for Algorithmic Trading_ Predictive models-751-821.pdf
+            │   └── Machine Learning for Algorithmic Trading_ Predictive models.pdf
+            └── Reinforcement Learning, Second Edition _ An Introduction
+                ├── Reinforcement Learning, Second Edition _ An Introduction (1).pdf
+                │   ├── Reinforcement Learning, Second Edition _ An Introduction-001-110.pdf
+                │   ├── Reinforcement Learning, Second Edition _ An Introduction-111-220.pdf
+                │   ├── Reinforcement Learning, Second Edition _ An Introduction-221-330.pdf
+                │   ├── Reinforcement Learning, Second Edition _ An Introduction-331-440.pdf
+                │   └── Reinforcement Learning, Second Edition _ An Introduction-441-548.pdf
+                └── Reinforcement Learning, Second Edition _ An Introduction.pdf
+
+C:\Users\lukas\Documents\Obsidian Desktop\1_Projects\Hobby\Book Ressources
+├── Fluent Python_ Clear, Concise, and Effective Programming, -- Luciano Ramalho.pdf
+├── Libary-AI-EN
+│   └── EN
+│       ├── 3-1-You Don't Know JS-Up&Going.pdf
+│       ├── 3-2-You Don't Know JS Yet_ Scope & Closures-Kyle Simpson.pdf
+│       ├── 3-3-You Don't Know JS_ This and Object Prototypes-Kyle Simpson.pdf
+│       ├── 3-4-You Don't Know JS_ Types & Grammar-Kyle Simpson.pdf
+│       ├── 3-5-You Don’t Know JS_ Async & Performance-Kyle Simpson.pdf
+│       ├── 3-6-You Don't Know JS_ ES6 & Beyond-Kyle Simpson.pdf
+│       ├── Advanced Guide to Python 3 Programming (Undergraduate Topics.pdf
+│       ├── Clean_Code_-_Refactoring_Patterns_Testen_und_Techniken 1.pdf
+│       ├── Grokking Algorithms, Second Edition -- Aditya Y_ Bhargava.pdf
+│       ├── Hands-On Machine Learning with Scikit-Learn, Keras, and.pdf
+│       ├── The Lean Startup -- Eric Ries.pdf
+│       ├── The Pragmatic Programmer_ Your Journey to Master.pdf
+│       └── The SaaS Playbook_ Build a Multimillion Dollar Startup.pdf
+├── Phase-1-Python & KI-Grundlagen
+│   ├── 1-Advanced Guide to Python 3 Programming-de.pdf
+│   ├── 2-Clean_Code_-_Refactoring_Patterns_Testen_und_Techniken.pdf
+│   ├── 3-Grokking Algorithms, Second Edition -- Aditya Y_ Bhargava-de.pdf
+│   ├── 4-The Pragmatic Programmer_ Your Journey to Master de.pdf
+│   ├── 5-Praxiseinstieg Machine Learning mit Scikit-Learn, Keras und Aktuell zu TensorFlow 2.pdf
+│   ├── 6-Deep Learning with Python, Second Edition  de.pdf
+│   └── 7-Neural Networks from Scratch in Python-Harrison Kinsley-DE.pdf
+├── Phase-2-LLM-Integration & Prompt Engineering
+│   ├── 10-Prompt Engineering for Generative AI_ Future-Proof Inputs.pdf
+│   ├── 11-LLM Engineer's Handbook_ Master the art of engineering large-MaximeLabonne.pdf
+│   ├── 12-Building LLM Powered Applications_ Create intelligent apps.pdf
+│   ├── 13-RAG-Driven Generative AI_ Build Custom Retrieval Augmented.pdf
+│   ├── 14-Building AI for Prouction.pdf
+│   ├── 15-AI Engineering_ Building Applications with Foundation Models -- Chip Huyen.pdf
+│   ├── 8-Foundations of Large Language Models-2025.pdf
+│   └── 9-Hands-On Large Language Models_ Language Understanding and.pdf
+├── Phase-3-Production AI Systems
+│   ├── 15-AI Engineering_ Building Applications with Foundation Models -- Chip Huyen.pdf
+│   ├── 16-Designing machine learning systems _ an iterative process-ChipHuyen.pdf
+│   ├── 17-Build a Large Language Model (From Scratch)-DE.pdf
+│   └── 18-Deep Learning for Natural Language Processing de.pdf
+├── Phase-4-JavaScript & Full-Stack
+│   ├── 19-0.1-You Don't Know JS-Up&Going de.pdf
+│   ├── 20-0.2-You Don't Know JS Yet_ Scope & Closures-Kyle Simpson de.pdf
+│   ├── 21-0.3-You Don't Know JS_ This and Object Prototypes-Kyle Simpson de.pdf
+│   ├── 22-0.4-You Don't Know JS_ Types & Grammar-Kyle Simpson de.pdf
+│   ├── 23-0.5-You Don’t Know JS_ Async & Performance-Kyle Simpson de.pdf
+│   ├── 24-0.6-You Don't Know JS_ ES6 & Beyond-Kyle Simpson de.pdf
+│   ├── 25-Modern Full-Stack Development_ Using TypeScript, React.pdf
+│   ├── 26-Modern Full-Stack React Projects_ Build, maintain.pdf
+│   ├── 27-Vue_js 3 Design Patterns and Best Practices _ Develop.pdf
+│   └── 28-Building Design Systems _ Unify User Experiences Through a.pdf
+├── Phase-5-SaaS & Architecture
+│   ├── 29-The Lean Startup -- Eric Ries de.pdf
+│   ├── 30-The SaaS Playbook_ Build a Multimillion Dollar Startup de.pdf
+│   ├── 31-Clean Architecture.pdf
+│   ├── 32-System Design Interview_ An insider's guide-Vol1.pdf
+│   ├── 33-System Design Interview _ An Insider's Guide-Vol2.pdf
+│   ├── 34-Designing Data-Intensive Applications _ The Big Ideas Behind -- Martin Kleppmann.pdf
+│   ├── 35-Building microservices _ designing fine-grained systems -- Samuel Newman.pdf
+│   ├── 36-Node_js Design Patterns_ Design and implement.pdf
+│   ├── 37-Database Internals _ A Deep Dive Into How Distributed Data.pdf
+│   ├── 38-Building Multi-Tenant SaaS Architectures_ Principles.pdf
+│   └── 39-Web Scalability for Startup Engineers_ Tips and Techniques.pdf
+├── Phase-6-Cloud & Production
+│   ├── 40-The Self-Taught Cloud Computing Engineer _ A Comprehensive.pdf
+│   ├── 41-AWS Certified Cloud Practitioner CLF-C02 Cert Guide.pdf
+│   ├── 42-AWS Certified Solutions Architect Study Guide with 900.pdf
+│   ├── 43-Terraform  Up and Running (Early Release) -- Yevgeniy Brikman.pdf
+│   ├── 44-Docker Security Essentials -- HackerSploit.pdf
+│   ├── 45-Kubernetes in Action, Second Edition MEAP V15_2023.pdf
+│   ├── 46-Release It! _ Design and Deploy Production-Ready Software -- Nygard, Michael T.pdf
+│   ├── 47-Securing DevOps _ Security in the Cloud.pdf
+│   ├── 48-Practical Cloud Security.pdf
+│   └── 49-Mastering AWS security _ create and maintain a secure cloud.pdf
+└── The Big Book of Small Python Projects (81 EASY PRACTICE -- Al Sweigart-2021.pdf

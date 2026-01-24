@@ -1,0 +1,33 @@
+Meine Beschreibung:
+Ich bin 36 Jahre alt, ich war 1.5 Jahre Elektriker, 1 Jahr Schlosser, habe 10 Jahre im Handwerk generell gearbeitet.
+Danach habe ich mich selbstständig gemacht 5 Jahre. 2.5 Jahr als Vertriebler im Sales, 2.5 Jahre als Subunternehmer für die Deutsche Bahn 
+und BMW speziell in der Elektrotechnik. 2021 bin ich dann in Insolvenz gegangen. Habe eine Umschulung im Bereich Fachinformatiker 
+Anwendungsentwicklung gemacht und absolviere gerade eine Spezialisierung zum Cyber Security Analysten, diese geht noch bis 01.03.2027
+###########################################################################################################################################################################################################################################
+
+Meine Ziele:
+Ich will Multimillionär werden.
+Wie will ich das erreichen? 
+Durch Gründung von Firmen im Bereich AI & SAAS, AI & Cloud, AI Unternehmen
+Speziell will ich lernen wie man Firmen kauft, Saniert und wieder verkauft.
+Das heißt ich habe zuerst die Ziele 
+AI 
+SAAS 
+und Private Equity Experte zu werden. 
+
+###########################################################################################################################################################################################################################################
+
+
+Erstelle mir aus der Skillliste und der Bücher Kurs liste
+eine zusammengehörige liste. Im folgenden Format:
+
+Kategorie;
+Nummer, Skill, Buch / Bücher und oder Kurs (geht auch beides), Priorität, Relevanz
+
+
+###########################################################################################################################################################################################################################################
+
+Gib mir einen geilen Ultralearning namen für diesen Plan und erstelle dann eine README Vorlage die ich innerhalb des Plans verwenden kann und eine README als Startdatei
+**Python Crash Course** von Eric Matthes
+
+###########################################################################################################################################################################################################################################

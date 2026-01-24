@@ -1,0 +1,61 @@
+
+
+## **TECHNISCHE SKILLS (AI/SaaS/Cloud)**
+
+1. Python Programmierung
+2. Machine Learning Grundlagen
+3. Deep Learning / Neural Networks
+4. LLM/GenAI APIs (OpenAI, Claude, etc.)
+5. Prompt Engineering
+6. RAG (Retrieval Augmented Generation)
+7. Cloud Services (AWS, GCP, Azure)
+8. SaaS-Architektur
+9. Datenbanken (SQL, NoSQL, Vector DBs)
+10. API-Entwicklung
+11. No-Code/Low-Code Tools (Bubble, Zapier, Make)
+12. DevOps Basics (CI/CD, Docker)
+13. Cyber Security (hast du bereits)
+
+---
+
+## **BUSINESS & FINANCE SKILLS (Private Equity)**
+
+14. Financial Modeling (Excel, DCF)
+15. Company Valuation (Multiples, LBO)
+16. Bilanz & GuV lesen
+17. Cashflow-Analyse
+18. M&A-Prozesse
+19. Due Diligence
+20. Leveraged Buyout (LBO) Modelle
+21. Turnaround Management
+22. Debt Restructuring
+23. Verhandlungsführung
+24. Risk Assessment
+25. Portfolio Management
+
+---
+
+## **ENTREPRENEUR & GRÜNDER SKILLS**
+
+26. Product-Market Fit finden
+27. MVP-Entwicklung (Lean Startup)
+28. SaaS Metrics (MRR, ARR, Churn, CAC, LTV)
+29. Go-to-Market Strategie
+30. Pricing Strategien
+31. Fundraising & Pitching
+32. Team-Aufbau & Leadership
+33. Customer Discovery
+34. Sales & Vertrieb (hast du bereits)
+35. Netzwerken
+
+---
+
+## **ZU LERNENDES WISSEN**
+
+- Andrew Ng: Machine Learning & Deep Learning Kurse
+- Y Combinator Startup School
+- CFI Financial Modeling (FMVA)
+- Wharton Distressed Asset Investing
+- Bücher: "What It Takes" (Schwarzman), "Zero to One" (Thiel), "Principles" (Dalio), "The Lean Startup" (Ries)
+- Sam Altman Blog: "How to Be Successful"
+- TMA (Turnaround Management Association) Ressourcen
