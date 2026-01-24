@@ -243,27 +243,11 @@
 
 ---
 
-### **13. Cyber Security**
-**⏱️ TOP 2 KERNZEIT: 75h** *(40h + 35h)*
-
-**📌 ACHTUNG:** Du machst bereits eine Spezialisierung zum Cyber Security Analysten bis 03/2027!
-
-| # | Ressource | Typ | Zeit | Priorität | Begründung |
-|---|-----------|-----|------|-----------|------------|
-| 1 | ✅ **Hacking: The Art of Exploitation** | Buch | 40h | 🥇 | Klassiker, du hast es |
-| 2 | ✅ **Web Security for Developers** | Buch | 35h | 🥇 | Modern, du hast es |
-| 3 | Google Cybersecurity Certificate | Kurs | 180h | 🥉 | Evtl. redundant zu deiner Ausbildung |
-| 4 | CompTIA Security+ | Kurs | 100h | ⏭️ | Wahrscheinlich in deiner Ausbildung |
-
-**⏭️ EMPFEHLUNG:** Nutze nur die Bücher als Referenz - deine Ausbildung deckt den Rest ab!
-
----
-
 ## **BUSINESS & FINANCE SKILLS (Private Equity)**
 
 ---
 
-### **14. Financial Modeling (Excel, DCF)**
+### **13. Financial Modeling (Excel, DCF)**
 **⏱️ TOP 2 KERNZEIT: 180h** *(150h + 30h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -282,14 +266,14 @@
 
 ---
 
-### **15. Company Valuation (Multiples, LBO)**
+### **14. Company Valuation (Multiples, LBO)**
 **⏱️ TOP 2 KERNZEIT: 90h** *(40h + 50h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
 |---|-----------|-----|------|-----------|------------|
 | 1 | **Valuation Course** – Aswath Damodaran (YouTube) | Kurs | 40h | 🥇 🎓 | DER Valuation-Professor weltweit, KOSTENLOS! |
 | 2 | ❌ **Valuation** – McKinsey | Buch | 50h | 🥇 | Das Standardwerk, PFLICHT |
-| 3 | Wall Street Prep Premium | Kurs | 100h | 🥈 | Enthält Valuation (bei #14) |
+| 3 | Wall Street Prep Premium | Kurs | 100h | 🥈 | Enthält Valuation (bei #13) |
 | 4 | ❌ The Little Book of Valuation – Damodaran | Buch | 10h | 🥉 | Guter Einstieg, kurz |
 | 5 | BIWS | Kurs | 120h | ⏭️ | Gut aber WSP ist besser |
 
@@ -301,7 +285,7 @@
 
 ---
 
-### **16. Bilanz & GuV lesen**
+### **15. Bilanz & GuV lesen**
 **⏱️ TOP 2 KERNZEIT: 55h** *(15h + 40h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -319,7 +303,7 @@
 
 ---
 
-### **17. Cashflow-Analyse**
+### **16. Cashflow-Analyse**
 **⏱️ TOP 2 KERNZEIT: 27h** *(15h + 12h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -337,7 +321,7 @@
 
 ---
 
-### **18. M&A-Prozesse**
+### **17. M&A-Prozesse**
 **⏱️ TOP 2 KERNZEIT: 95h** *(50h + 45h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -355,7 +339,7 @@
 
 ---
 
-### **19. Due Diligence**
+### **18. Due Diligence**
 **⏱️ TOP 2 KERNZEIT: 65h** *(30h + 35h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -373,7 +357,7 @@
 
 ---
 
-### **20. Leveraged Buyout (LBO) Modelle**
+### **19. Leveraged Buyout (LBO) Modelle**
 **⏱️ TOP 2 KERNZEIT: 120h** *(40h + 80h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -391,7 +375,7 @@
 
 ---
 
-### **21. Turnaround Management**
+### **20. Turnaround Management**
 **⏱️ TOP 2 KERNZEIT: 95h** *(35h + 60h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -411,7 +395,7 @@
 
 ---
 
-### **22. Debt Restructuring**
+### **21. Debt Restructuring**
 **⏱️ TOP 2 KERNZEIT: 135h** *(35h + 100h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -429,7 +413,7 @@
 
 ---
 
-### **23. Verhandlungsführung**
+### **22. Verhandlungsführung**
 **⏱️ TOP 2 KERNZEIT: 22h** *(12h + 10h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -448,7 +432,7 @@
 
 ---
 
-### **24. Risk Assessment**
+### **23. Risk Assessment**
 **⏱️ TOP 2 KERNZEIT: 80h** *(20h + 60h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -466,7 +450,7 @@
 
 ---
 
-### **25. Portfolio Management**
+### **24. Portfolio Management**
 **⏱️ TOP 2 KERNZEIT: 55h** *(25h + 30h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -488,7 +472,7 @@
 
 ---
 
-### **26. Product-Market Fit finden**
+### **25. Product-Market Fit finden**
 **⏱️ TOP 2 KERNZEIT: 38h** *(30h + 8h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -506,7 +490,7 @@
 
 ---
 
-### **27. MVP-Entwicklung (Lean Startup)**
+### **26. MVP-Entwicklung (Lean Startup)**
 **⏱️ TOP 2 KERNZEIT: 45h** *(15h + 30h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -524,7 +508,7 @@
 
 ---
 
-### **28. SaaS Metrics (MRR, ARR, Churn, CAC, LTV)**
+### **27. SaaS Metrics (MRR, ARR, Churn, CAC, LTV)**
 **⏱️ TOP 2 KERNZEIT: 25h** *(20h + 5h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -542,7 +526,7 @@
 
 ---
 
-### **29. Go-to-Market Strategie**
+### **28. Go-to-Market Strategie**
 **⏱️ TOP 2 KERNZEIT: 25h** *(15h + 10h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -561,7 +545,7 @@
 
 ---
 
-### **30. Pricing Strategien**
+### **29. Pricing Strategien**
 **⏱️ TOP 2 KERNZEIT: 48h** *(30h + 18h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -578,7 +562,7 @@
 
 ---
 
-### **31. Fundraising & Pitching**
+### **30. Fundraising & Pitching**
 **⏱️ TOP 2 KERNZEIT: 30h** *(20h + 10h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -598,7 +582,7 @@
 
 ---
 
-### **32. Team-Aufbau & Leadership**
+### **31. Team-Aufbau & Leadership**
 **⏱️ TOP 2 KERNZEIT: 33h** *(18h + 15h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -618,7 +602,7 @@
 
 ---
 
-### **33. Customer Discovery**
+### **32. Customer Discovery**
 **⏱️ TOP 2 KERNZEIT: 37h** *(25h + 12h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -635,7 +619,7 @@
 
 ---
 
-### **34. Sales & Vertrieb**
+### **33. Sales & Vertrieb**
 **⏱️ TOP 2 KERNZEIT: 30h** *(15h + 15h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -654,7 +638,7 @@
 
 ---
 
-### **35. Netzwerken**
+### **34. Netzwerken**
 **⏱️ TOP 2 KERNZEIT: 27h** *(12h + 15h)*
 
 | # | Ressource | Typ | Zeit | Priorität | Begründung |
@@ -694,7 +678,7 @@
 
 ## **GESAMTBERECHNUNG: TOP 2 KERNZEIT PRO BEREICH**
 
-### **TECHNISCHE SKILLS (Skills #1-13)**
+### **TECHNISCHE SKILLS (Skills #1-12)**
 
 | Skill | Name | TOP 2 Kernzeit |
 |-------|------|----------------|
@@ -710,41 +694,40 @@
 | 10 | API-Entwicklung | 40h |
 | 11 | No-Code/Low-Code | 35h |
 | 12 | DevOps Basics | 45h |
-| 13 | Cyber Security | 75h |
-| **GESAMT TECHNISCH** | | **860h** |
+| **GESAMT TECHNISCH** | | **785h** |
 
-### **BUSINESS & FINANCE SKILLS (Skills #14-25)**
+### **BUSINESS & FINANCE SKILLS (Skills #13-24)**
 
 | Skill | Name | TOP 2 Kernzeit |
 |-------|------|----------------|
-| 14 | Financial Modeling | 180h |
-| 15 | Company Valuation | 90h |
-| 16 | Bilanz & GuV | 55h |
-| 17 | Cashflow-Analyse | 27h |
-| 18 | M&A-Prozesse | 95h |
-| 19 | Due Diligence | 65h |
-| 20 | LBO Modelle | 120h |
-| 21 | Turnaround Management | 95h |
-| 22 | Debt Restructuring | 135h |
-| 23 | Verhandlungsführung | 22h |
-| 24 | Risk Assessment | 80h |
-| 25 | Portfolio Management | 55h |
+| 13 | Financial Modeling | 180h |
+| 14 | Company Valuation | 90h |
+| 15 | Bilanz & GuV | 55h |
+| 16 | Cashflow-Analyse | 27h |
+| 17 | M&A-Prozesse | 95h |
+| 18 | Due Diligence | 65h |
+| 19 | LBO Modelle | 120h |
+| 20 | Turnaround Management | 95h |
+| 21 | Debt Restructuring | 135h |
+| 22 | Verhandlungsführung | 22h |
+| 23 | Risk Assessment | 80h |
+| 24 | Portfolio Management | 55h |
 | **GESAMT BUSINESS/FINANCE** | | **1.019h** |
 
-### **ENTREPRENEUR & GRÜNDER SKILLS (Skills #26-35)**
+### **ENTREPRENEUR & GRÜNDER SKILLS (Skills #25-34)**
 
 | Skill | Name | TOP 2 Kernzeit |
 |-------|------|----------------|
-| 26 | Product-Market Fit | 38h |
-| 27 | MVP-Entwicklung | 45h |
-| 28 | SaaS Metrics | 25h |
-| 29 | Go-to-Market | 25h |
-| 30 | Pricing | 48h |
-| 31 | Fundraising | 30h |
-| 32 | Team/Leadership | 33h |
-| 33 | Customer Discovery | 37h |
-| 34 | Sales & Vertrieb | 30h |
-| 35 | Netzwerken | 27h |
+| 25 | Product-Market Fit | 38h |
+| 26 | MVP-Entwicklung | 45h |
+| 27 | SaaS Metrics | 25h |
+| 28 | Go-to-Market | 25h |
+| 29 | Pricing | 48h |
+| 30 | Fundraising | 30h |
+| 31 | Team/Leadership | 33h |
+| 32 | Customer Discovery | 37h |
+| 33 | Sales & Vertrieb | 30h |
+| 34 | Netzwerken | 27h |
 | **GESAMT ENTREPRENEUR** | | **338h** |
 
 ### **PFLICHTLEKTÜRE**
@@ -759,20 +742,20 @@
 
 | Kategorie | TOP 2 Kernzeit |
 |-----------|----------------|
-| **Technische Skills** | 860h |
+| **Technische Skills** | 785h |
 | **Business & Finance** | 1.019h |
 | **Entrepreneur & Gründer** | 338h |
 | **Pflichtlektüre** | 32h |
-| **GESAMTSUMME** | **2.249h** |
+| **GESAMTSUMME** | **2.174h** |
 
 ---
 
 ## **ZEITBERECHNUNG BEI 14H/WOCHE (NUR TOP 2)**
 
-**2.249h ÷ 14h/Woche = 160,6 Wochen**
-- Bei 50 Arbeitswochen/Jahr = **3,2 Jahre**
-- Bei 45 Wochen/Jahr (mit Urlaub) = **3,6 Jahre**
-- **Realistisch: ~3,5 Jahre** für solide Expertise in allen Bereichen!
+**2.174h ÷ 14h/Woche = 155,3 Wochen**
+- Bei 50 Arbeitswochen/Jahr = **3,1 Jahre**
+- Bei 45 Wochen/Jahr (mit Urlaub) = **3,45 Jahre**
+- **Realistisch: ~3-3,5 Jahre** für solide Expertise in allen Bereichen!
 
 ---
 
@@ -782,10 +765,10 @@
 |----------|---------|---------------------|
 | Original (alle Ressourcen) | 6.112h | ~8,7 Jahre |
 | Mit Bonus-Büchern | 8.553h | ~12,2 Jahre |
-| **NUR TOP 2 (optimiert)** | **2.249h** | **~3,2 Jahre** |
+| **NUR TOP 2 (optimiert)** | **2.174h** | **~3,1 Jahre** |
 
-**🎯 ERSPARNIS: 3.863 Stunden = ~5,5 Jahre!**
+**🎯 ERSPARNIS: 3.938 Stunden = ~5,6 Jahre!**
 
 ---
 
-*Diese Analyse zeigt: Mit konsequentem Fokus auf die TOP 2 Ressourcen pro Skill erreichst du dein Ziel in 3-4 Jahren statt in 8-9 Jahren!*
+*Diese Analyse zeigt: Mit konsequentem Fokus auf die TOP 2 Ressourcen pro Skill erreichst du dein Ziel in ~3 Jahren statt in 8-9 Jahren!*
