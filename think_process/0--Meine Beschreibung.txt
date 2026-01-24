@@ -31,3 +31,20 @@ Gib mir einen geilen Ultralearning namen für diesen Plan und erstelle dann eine
 **Python Crash Course** von Eric Matthes
 
 ###########################################################################################################################################################################################################################################
+
+Ich habe folgende Aufgabe für dich, das ist mein Ziel "Meine Beschreibung:
+Ich bin 36 Jahre alt, ich war 1.5 Jahre Elektriker, 1 Jahr Schlosser, habe 10 Jahre im Handwerk generell gearbeitet.
+Danach habe ich mich selbstständig gemacht 5 Jahre. 2.5 Jahr als Vertriebler im Sales, 2.5 Jahre als Subunternehmer für die Deutsche Bahn 
+und BMW speziell in der Elektrotechnik. 2021 bin ich dann in Insolvenz gegangen. Habe eine Umschulung im Bereich Fachinformatiker 
+Anwendungsentwicklung gemacht und absolviere gerade eine Spezialisierung zum Cyber Security Analysten, diese geht noch bis 01.03.2027
+Meine Ziele:
+Ich will Multimillionär werden.
+Wie will ich das erreichen? 
+Durch Gründung von Firmen im Bereich AI & SAAS, AI & Cloud, AI Unternehmen
+Speziell will ich lernen wie man Firmen kauft, Saniert und wieder verkauft.
+Das heißt ich habe zuerst die Ziele 
+AI 
+SAAS 
+und Private Equity Experte zu werden. " Das ist das Resultat der Recherche Datei "7--skill_roadmap-update.md". Ich will von dir das du den Plan Analysierst. Dann will ich das du dir jede Kategorie vornimmst und innerhalb der Kategorie jeden Punkt einzeln durchgehst. Dann sollst du  Recherchieren welche der Optionen die beste davon ist und dann die Reihenfolge mit einer Nummerierung versehen, dabei spielt es keine Rolle ob Buch oder Kurs, wenn beides gleich ist dann entscheide dich immer lieber für das Buch. Außerdem möchte ich wissen welche Kurse oder Bücher ich auch weg lassen kann ohne Beeinträchtigung des Lern Impacts. Erstelle eine Neue Datei. ändere aber nichts am Inhalt. Füge nur Informationen hinzu.
+
+###########################################################################################################################################################################################################################################
