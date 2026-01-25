@@ -1,571 +1,582 @@
-# 🚀 PROJECT APEX: The Elite Ultralearning Roadmap
+# 🎯 Comprehensive Skill Roadmap
+## AI Engineering • SaaS Architecture • Private Equity • Quantitative Finance
 
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
-![Timeline](https://img.shields.io/badge/Timeline-4--5_Years-blue?style=for-the-badge)
-![Commitment](https://img.shields.io/badge/Weekly-14h-orange?style=for-the-badge)
-
-**From Zero to PE-Backed SaaS Founder**  
-*AI Engineering × Private Equity × Entrepreneurship*
-
-[📋 Skills Roadmap](./docs/skill-roadmap.md) • [📊 Progress Tracker](./docs/progress-tracker.md) • [🎯 Milestones](./docs/milestones.md) • [📚 Resources](./docs/resources.md)
-
-</div>
+**Version:** 2.0 (mit Quant Finance Integration)  
+**Zuletzt aktualisiert:** Januar 2026  
+**Gesamtumfang:** 38 Skills • 2.744 Stunden • ~4 Jahre bei 14h/Woche
 
 ---
 
-## 🎯 Mission Statement
+## 📋 Überblick
 
-> **Transform from technical professional to PE-ready entrepreneur capable of building, acquiring, and scaling AI-powered SaaS companies.**
+Dieser Lernplan kombiniert vier hochspezialisierte Bereiche zu einem kohärenten Entwicklungspfad:
 
-This is not a typical learning plan. **PROJECT APEX** is an intensive, structured ultralearning curriculum designed to compress 10+ years of traditional career progression into 4-5 years of focused, deliberate practice.
+- **AI Engineering** – LLMs, RAG Systems, Production ML
+- **SaaS Architecture** – Cloud, Scale, Modern Web Stack
+- **Private Equity** – LBO, M&A, Due Diligence, Turnarounds
+- **Quantitative Finance** – Options Pricing, Stochastic Calculus, Algo Trading
+
+### Zielgruppe
+
+Dieser Plan richtet sich an ambitionierte Lerner, die:
+- Eine umfassende technische und finanzielle Expertise aufbauen wollen
+- An der Schnittstelle von Technologie und Finance arbeiten möchten
+- Einen strukturierten, wissenschaftlich fundierten Lernweg suchen
+- Bereit sind, 14h/Woche über mehrere Jahre zu investieren
 
 ---
 
-## 📈 The APEX Framework
+## 🎯 Die 38 Skills im Überblick
+
+### Technische Skills (1-12) – 785h
+1. Python Programmierung
+2. Machine Learning Grundlagen
+3. Deep Learning / Neural Networks
+4. LLM/GenAI APIs
+5. Prompt Engineering
+6. RAG (Retrieval Augmented Generation)
+7. Cloud Services (AWS, GCP, Azure)
+8. SaaS-Architektur
+9. Datenbanken (SQL, NoSQL, Vector DBs)
+10. API-Entwicklung
+11. No-Code/Low-Code Tools
+12. DevOps Basics (CI/CD, Docker)
+
+### Business & Finance Skills (13-24) – 1.019h
+13. Financial Modeling (Excel, DCF)
+14. Company Valuation (Multiples, LBO)
+15. Bilanz & GuV lesen
+16. Cashflow-Analyse
+17. M&A-Prozesse
+18. Due Diligence
+19. Leveraged Buyout (LBO) Modelle
+20. Turnaround Management
+21. Debt Restructuring
+22. Verhandlungsführung
+23. Risk Assessment
+24. Portfolio Management
+
+### Entrepreneur & Gründer Skills (25-34) – 338h
+25. Product-Market Fit finden
+26. MVP-Entwicklung (Lean Startup)
+27. SaaS Metrics (MRR, ARR, Churn, CAC, LTV)
+28. Go-to-Market Strategie
+29. Pricing Strategien
+30. Fundraising & Pitching
+31. Team-Aufbau & Leadership
+32. Customer Discovery
+33. Sales & Vertrieb
+34. Netzwerken
+
+### 🔢 Quantitative Finance Skills (35-38) – 570h
+35. Quant Finance Fundamentals (Math for Finance)
+36. Financial Engineering & Derivatives Pricing
+37. Stochastic Calculus & Mathematical Finance
+38. Quantitative Trading & Financial ML
+
+### Pflichtlektüre – 32h
+- Mindset & Erfolg (Principles, Zero to One, etc.)
+
+---
+
+## 📊 Zeitplanung & Struktur
+
+### Gesamtumfang
+
+| Kategorie | Skills | TOP 2 Zeit | Anteil |
+|-----------|--------|------------|--------|
+| Tech | 12 | 785h | 29% |
+| Business/Finance | 12 | 1.019h | 37% |
+| Quant Finance | 4 | 570h | 21% |
+| Entrepreneur | 10 | 338h | 12% |
+| Pflichtlektüre | - | 32h | 1% |
+| **GESAMT** | **38** | **2.744h** | **100%** |
+
+### Zeitberechnung
+
+**Bei 14 Stunden/Woche:**
+- 2.744h ÷ 14h/Woche = **196 Wochen**
+- Bei 50 Arbeitswochen/Jahr = **3,92 Jahre**
+- Bei 45 Wochen/Jahr (mit Urlaub) = **4,36 Jahre**
+- **Realistisch: ~4-4,5 Jahre**
+
+---
+
+## 🗺️ Die 6 Lernphasen
+
+### Phase 1: Foundation & First Value (Monate 1-6)
+**Fokus:** Python, ML, DL + erstes MVP
+
+**Tech Skills:**
+- Python Programmierung (Mega Course + Fluent Python)
+- Machine Learning (Andrew Ng Specialization)
+- Deep Learning (Andrew Ng DL + Fast.ai)
+
+**Business Skills:**
+- Customer Discovery (ab Tag 1!)
+- Product-Market Fit (Y Combinator)
+- MVP-Entwicklung (Lean Startup)
+- Financial Modeling & Valuation Basics
+
+**Milestone:** Erstes funktionierendes MVP + ML-Grundlagen
+
+---
+
+### Phase 2: LLM Expertise + Quant Fundamentals (Monate 7-12)
+**Fokus:** Production LLMs + Quantitative Math Basics
+
+**Tech Skills:**
+- LLM/GenAI APIs (Build LLM from Scratch)
+- Prompt Engineering
+- RAG Systems
+- API-Entwicklung (FastAPI)
+- Cloud Services Start (AWS)
+
+**🔢 Quant Skills:**
+- Quant Finance Fundamentals (Blyth, Capiński)
+- Math for Finance Basics
+
+**Business Skills:**
+- M&A-Prozesse
+- Due Diligence
+- LBO Modeling
+- Fundraising & Pitching
+
+**Milestone:** Production LLM App + Quant Math Foundation
+
+---
+
+### Phase 3: Scale + Derivatives (Monate 13-24)
+**Fokus:** Skalierbare Architektur + Options Pricing
+
+**Tech Skills:**
+- SaaS-Architektur (DDIA!)
+- Datenbanken (SQL, NoSQL, Vector DBs)
+- No-Code/Low-Code
+
+**🔢 Quant Skills:**
+- Financial Engineering (Stefanica Primer)
+- Derivatives Pricing (Hull Options – 900+ Seiten!)
+- Paul Wilmott Introduces Quantitative Finance
+
+**Business Skills:**
+- Portfolio Management
+- Debt Restructuring
+- Sales & Vertrieb
+
+**Milestone:** Skalierbare Architektur + Derivatives verstanden
+
+---
+
+### Phase 4: Stochastic Calculus (Monate 25-31)
+**Fokus:** Tiefe Quant-Mathematik + Advanced Finance
+
+**🔢 Quant Skills:**
+- Stochastic Calculus for Finance I (Shreve – Binomial Models)
+- Stochastic Calculus for Finance II (Shreve – Continuous Time)
+- Mathematical Finance Practice (Joshi)
+
+**Tech Skills:**
+- DevOps (Docker, CI/CD)
+- AWS Zertifizierung abschließen
+
+**Milestone:** Stochastic Calculus Mastery + AWS SA Associate Zertifiziert
+
+---
+
+### Phase 5: Quant Trading & Financial ML (Monate 32-37)
+**Fokus:** Praktische Anwendung aller Skills
+
+**🔢 Quant Skills:**
+- Python for Data Analysis (McKinney – Pandas)
+- Quantitative Trading (Ernest Chan)
+- Paul Wilmott on Quantitative Finance (3 Volumes – 1400+ Seiten!)
+- Advances in Financial Machine Learning (Lopez de Prado)
+- Quant Finance Interviews (Zhou)
+
+**Milestone:** Trading Strategies + Financial ML produktiv
+
+---
+
+### Phase 6: Spezialisierung (Monate 38+)
+**Wähle 2 von 3 Tracks:**
+
+**Track A: AI/ML Engineer**
+- Advanced ML Systems
+- Custom Model Training
+- Production ML at Scale
+
+**Track B: Quantitative Researcher/Trader**
+- Advanced Stochastic Models
+- High-Frequency Trading
+- Market Microstructure
+
+**Track C: PE/VC with Tech Edge**
+- Data-Driven M&A
+- Quantitative Due Diligence
+- Portfolio Optimization
+
+---
+
+## 📚 Ressourcen-Übersicht
+
+### Quant Finance Bücher (alle im Besitz ✅)
+
+**Phase 0 - Fundamentals:**
+- An Introduction to Quantitative Finance – Blyth
+- Mathematics for Finance – Capiński & Zastawniak
+
+**Phase 1 - Engineering:**
+- A Primer For The Mathematics Of Financial Engineering – Stefanica
+- Options, Futures, and Other Derivatives – Hull (900+ S.)
+- Paul Wilmott Introduces Quantitative Finance
+- Solutions Manual – Stefanica
+
+**Phase 2 - Stochastic:**
+- Stochastic Calculus for Finance I – Shreve
+- Stochastic Calculus for Finance II – Shreve
+- The Concepts and Practice of Mathematical Finance – Joshi
+
+**Phase 3 - Trading:**
+- Python for Data Analysis – McKinney
+- Quantitative Trading – Ernest Chan
+- Paul Wilmott on Quantitative Finance (3 Volumes – 1400+ S.!)
+- Advances in Financial Machine Learning – Lopez de Prado
+- A Practical Guide To Quantitative Finance Interviews – Zhou
+
+**Gesamt: 13 Quant-Bücher**
+
+### Kostenlose Top-Kurse
+
+- Andrew Ng ML Specialization (KOSTENLOS)
+- Andrew Ng Deep Learning Specialization (KOSTENLOS)
+- DeepLearning.AI Short Courses (KOSTENLOS)
+- Y Combinator Startup School (KOSTENLOS)
+- Aswath Damodaran Valuation (YouTube, KOSTENLOS)
+- Fast.ai Practical Deep Learning (KOSTENLOS)
+
+### Kostenpflichtige Investitionen
+
+- Wall Street Prep Premium (~499$) – **Absolut lohnenswert**
+- AWS SA Associate Kurs (~15€)
+- Diverse Bücher (~800€)
+
+**Gesamtinvestition: ~1.200€ für 4 Jahre Elite-Ausbildung**
+
+---
+
+## ⚡ Warum diese Reihenfolge?
+
+### Optimale Prerequisites-Struktur
 
 ```
-    🏔️ APEX
-   /│\
-  / │ \
- AI │ PE
-    │
-  SaaS
+Python (Basis)
+  ↓
+ML/DL (Mathematik + Implementierung)
+  ↓
+Financial Modeling (Business-Kontext)
+  ↓
+Quant Math Fundamentals (Brücke)
+  ↓
+Derivatives & Options (Anwendung)
+  ↓
+Stochastic Calculus (Tiefe Theorie)
+  ↓
+Quant Trading + Financial ML (Praktische Meisterschaft)
 ```
 
-**Three Pillars of Excellence:**
-1. 🤖 **AI/ML Engineering** - Build cutting-edge AI applications
-2. 💼 **Private Equity** - Master financial modeling, M&A, turnarounds
-3. 🚀 **SaaS Entrepreneurship** - Create, scale, and exit profitable businesses
+### Parallel-Tracks für Synergien
+
+**Tech + Business gleichzeitig:**
+- Lernst ML → gleichzeitig SaaS Metrics
+- Verstehst Kontext: "Wofür nutze ich ML im Business?"
+
+**Finance + Quant verzahnt:**
+- Financial Modeling → dann Quant Math
+- Derivatives verstehen → dann Stochastic Calculus
+- Theorie + Praxis parallel
 
 ---
 
-## 📊 Project Overview
+## 🎯 Erwartete Outcomes
 
-### Total Learning Investment
-- **Core Path (Recommended):** 2,800 hours
-- **Complete Mastery:** 6,112 hours
-- **With Bonus Content:** 8,553 hours
-- **Sprint Mode (MVP):** 1,400 hours
+### Nach Phase 1 (6 Monate):
+- ✅ Python auf professionellem Level
+- ✅ ML/DL Grundlagen solide
+- ✅ Erstes funktionierendes MVP
+- ✅ Financial Modeling Basics
 
-### Time Commitment
-- **Weekly Target:** 14 hours
-- **Daily Average:** 2 hours
-- **Timeline:** 4-5 years to PE-ready status
-- **Sprint Mode:** 2-2.5 years for foundation
+### Nach Phase 2 (12 Monate):
+- ✅ Production-ready LLM Applications
+- ✅ Quant Finance Math-Foundation
+- ✅ AWS Cloud Practitioner Level
+- ✅ M&A & Due Diligence verstanden
 
-### Investment Breakdown
-| Category | Core Hours | Full Hours | Bonus Hours | Focus % |
-|----------|------------|------------|-------------|---------|
-| 🤖 Technical Skills | 1,120h | 2,008h | 3,783h | 33% |
-| 💼 Business & Finance | 1,456h | 3,184h | 3,284h | 52% |
-| 🚀 Entrepreneurship | 196h | 838h | 1,165h | 14% |
-| 📚 Mindset & Leadership | 28h | 82h | 321h | 1% |
-| **TOTAL** | **2,800h** | **6,112h** | **8,553h** | **100%** |
+### Nach Phase 3 (24 Monate):
+- ✅ Skalierbare SaaS-Architekturen
+- ✅ Options & Derivatives Pricing
+- ✅ Database Design Expert
+- ✅ B2B Sales Skills
 
----
+### Nach Phase 4 (31 Monate):
+- ✅ Stochastic Calculus Mastery
+- ✅ AWS Solutions Architect Associate zertifiziert
+- ✅ DevOps & CI/CD pipelines
+- ✅ PE-Level Finance Skills
 
-## 🗺️ Learning Phases
+### Nach Phase 5 (37 Monate):
+- ✅ Quantitative Trading Strategies
+- ✅ Financial ML produktiv
+- ✅ Pandas/NumPy Expert
+- ✅ Wilmott 3-Volume komplett
 
-### Phase 1: Foundation (Months 0-24)
-**Goal:** First SaaS + AI/ML Job Ready
-
-**Core Focus:**
-- ✅ Python & Machine Learning fundamentals (400h)
-- ✅ LLM/GenAI APIs & RAG systems (280h)
-- ✅ Cloud infrastructure basics (140h)
-- ✅ Financial modeling foundations (280h)
-- ✅ Lean Startup & MVP development (140h)
-
-**Key Milestones:**
-- [ ] **Month 6:** First ML project deployed to production
-- [ ] **Month 12:** First SaaS MVP live with beta users
-- [ ] **Month 18:** Secured AI/SaaS job or consulting gig
-- [ ] **Month 24:** SaaS with 5+ paying customers
-
-**Hours Required:** 1,400h (100h/month avg)
+### Nach Phase 6 (4+ Jahre):
+- ✅ Spezialisierung in gewähltem Track
+- ✅ Elite-Level Expertise
+- ✅ Einzigartige Skill-Kombination
 
 ---
 
-### Phase 2: Expansion (Months 25-48)
-**Goal:** Scale SaaS + PE Competency
+## 🔄 Lernmethodik
 
-**Core Focus:**
-- ✅ Advanced financial modeling (LBO, M&A) (560h)
-- ✅ Company valuation & due diligence (420h)
-- ✅ System architecture & DevOps (280h)
-- ✅ Go-to-market strategies (140h)
-- ✅ Sales & fundraising (140h)
+### Die 5 wissenschaftlich fundierten Methoden:
 
-**Key Milestones:**
-- [ ] **Month 30:** $10k MRR or 100+ customers
-- [ ] **Month 36:** First complete M&A model
-- [ ] **Month 42:** Wall Street Prep certification
-- [ ] **Month 48:** $50k MRR or successful exit/acquisition
+1. **Active Recall** – Aktiv aus Gedächtnis abrufen, nicht passiv lesen
+2. **Spaced Repetition** – Verteiltes Wiederholen (Anki)
+3. **Feynman Technique** – Erklären wie für 12-Jährige
+4. **Interleaving** – Themen mischen, nicht blocken
+5. **Elaboration** – Mit Vorwissen verknüpfen
 
-**Hours Required:** 2,100h (88h/month avg)
+### Tägliche Struktur (14h/Woche = 2h/Tag)
 
----
-
-### Phase 3: Mastery (Months 49-60+)
-**Goal:** PE Entry or First Acquisition
-
-**Core Focus:**
-- ✅ Turnaround management (280h)
-- ✅ Distressed debt & restructuring (280h)
-- ✅ Portfolio management (140h)
-- ✅ PE networking & deal sourcing (140h)
-
-**Key Milestones:**
-- [ ] **Month 54:** First acquisition target evaluated
-- [ ] **Month 60:** PE job offer OR acquisition closed
-
-**Hours Required:** 2,612h (remaining to mastery)
-
----
-
-## 🎓 Skill Matrix
-
-### 🤖 Technical Skills (13 Core Skills)
-
-| Skill | Priority | Hours | Status |
-|-------|----------|-------|--------|
-| Python Programming | 🔥 Critical | 200h | 🟡 In Progress |
-| Machine Learning Fundamentals | 🔥 Critical | 280h | ⚪ Not Started |
-| LLM/GenAI APIs | 🔥 Critical | 140h | ⚪ Not Started |
-| RAG Systems | 🔥 Critical | 140h | ⚪ Not Started |
-| Cloud Services (AWS) | 🔥 Critical | 140h | ⚪ Not Started |
-| Deep Learning | 🟡 Important | 280h | ⚪ Not Started |
-| SaaS Architecture | 🟡 Important | 140h | ⚪ Not Started |
-| Databases (SQL/NoSQL/Vector) | 🟡 Important | 140h | ⚪ Not Started |
-| API Development | 🟡 Important | 84h | ⚪ Not Started |
-| DevOps (CI/CD, Docker) | ⚪ Nice-to-Have | 84h | ⚪ Not Started |
-| Prompt Engineering | ⚪ Nice-to-Have | 56h | ⚪ Not Started |
-| No-Code Tools | ⚪ Nice-to-Have | 42h | ⚪ Not Started |
-| Cyber Security | ⚪ Nice-to-Have | 84h | ⚪ Not Started |
-
-[View detailed breakdown →](./docs/skill-roadmap.md#technical-skills)
-
----
-
-### 💼 Business & Finance Skills (12 Core Skills)
-
-| Skill | Priority | Hours | Status |
-|-------|----------|-------|--------|
-| Financial Modeling (Excel, DCF) | 🔥 Critical | 420h | ⚪ Not Started |
-| Company Valuation | 🔥 Critical | 280h | ⚪ Not Started |
-| LBO Models | 🔥 Critical | 280h | ⚪ Not Started |
-| M&A Processes | 🔥 Critical | 200h | ⚪ Not Started |
-| Due Diligence | 🔥 Critical | 200h | ⚪ Not Started |
-| Balance Sheets & P&L | 🟡 Important | 140h | ⚪ Not Started |
-| Cashflow Analysis | 🟡 Important | 140h | ⚪ Not Started |
-| Turnaround Management | 🟡 Important | 280h | ⚪ Not Started |
-| Debt Restructuring | 🟡 Important | 280h | ⚪ Not Started |
-| Negotiation | 🟡 Important | 84h | ⚪ Not Started |
-| Risk Assessment | ⚪ Nice-to-Have | 140h | ⚪ Not Started |
-| Portfolio Management | ⚪ Nice-to-Have | 140h | ⚪ Not Started |
-
-[View detailed breakdown →](./docs/skill-roadmap.md#business-finance)
-
----
-
-### 🚀 Entrepreneur Skills (10 Core Skills)
-
-| Skill | Priority | Hours | Status |
-|-------|----------|-------|--------|
-| Product-Market Fit | 🔥 Critical | 84h | ⚪ Not Started |
-| MVP Development | 🔥 Critical | 140h | ⚪ Not Started |
-| SaaS Metrics (MRR, CAC, LTV) | 🔥 Critical | 84h | ⚪ Not Started |
-| Customer Discovery | 🔥 Critical | 84h | ⚪ Not Started |
-| Go-to-Market Strategy | 🟡 Important | 140h | ⚪ Not Started |
-| Pricing Strategies | 🟡 Important | 56h | ⚪ Not Started |
-| Sales & Distribution | 🟡 Important | 140h | ⚪ Not Started |
-| Fundraising & Pitching | 🟡 Important | 84h | ⚪ Not Started |
-| Team Building | ⚪ Nice-to-Have | 84h | ⚪ Not Started |
-| Networking | ⚪ Nice-to-Have | 56h | ⚪ Not Started |
-
-[View detailed breakdown →](./docs/skill-roadmap.md#entrepreneurship)
-
----
-
-## 📚 Resources Library
-
-### 🔥 Critical Resources (Must Have)
-
-**Technical (Already Owned ✅)**
-- Fluent Python - Luciano Ramalho
-- Hands-On Machine Learning - Aurélien Géron
-- Deep Learning for Coders - Jeremy Howard
-- Build a Large Language Model - Sebastian Raschka
-- Designing Data-Intensive Applications - Martin Kleppmann
-
-**Business & Finance (⚠️ Priority Gaps)**
-- ❌ Financial Modeling and Valuation - Paul Pignataro (~$80)
-- ❌ Investment Banking - Rosenbaum & Pearl (~$90)
-- ❌ Valuation - McKinsey & Company (~$75)
-- ❌ Leveraged Buyouts - Paul Pignataro (~$80)
-- ❌ Corporate Turnaround Artistry - Needham & Moore (~$65)
-
-**Leadership & Mindset (Already Owned ✅)**
-- Never Split the Difference - Chris Voss
-- Getting to Yes - Roger Fisher
-- The Hard Thing About Hard Things - Ben Horowitz
-- Principles - Ray Dalio
-- The Intelligent Investor - Benjamin Graham
-
----
-
-### 🏆 Premium Courses (Gold Standard)
-
-**Financial Modeling (Pick One)**
-- 🥇 Wall Street Prep Premium (~$499) - **RECOMMENDED**
-- 🥈 Breaking Into Wall Street (~$500)
-- 🥉 Corporate Finance Institute FMVA (~$500)
-
-**Technical (Free/Low-Cost)**
-- ✅ Andrew Ng ML Specialization (Coursera) - FREE
-- ✅ Fast.ai Deep Learning - FREE
-- ✅ AWS Educate (600+ courses) - FREE
-- ✅ Google Cloud Skills Boost - FREE
-
-**Entrepreneurship**
-- ✅ Y Combinator Startup School - FREE **[MANDATORY]**
-- ✅ How to Start a Startup (Sam Altman) - FREE
-- ✅ Indie Hackers Resources - FREE
-
-[View complete resource list →](./docs/resources.md)
-
----
-
-## 📊 Progress Tracking
-
-### Overall Progress
 ```
-Phase 1 (Foundation):    ████░░░░░░░░░░░░░░░░ 20% (Months 0-24)
-Phase 2 (Expansion):     ░░░░░░░░░░░░░░░░░░░░  0% (Months 25-48)
-Phase 3 (Mastery):       ░░░░░░░░░░░░░░░░░░░░  0% (Months 49-60+)
+AUFWÄRMEN (10 min)
+  ├─ Gestrige Notizen überfliegen
+  └─ 3-5 Spaced Repetition Karten (Anki)
+
+INPUT (40 min)
+  ├─ Buch lesen ODER Video schauen
+  └─ Aktive Notizen (nicht nur passiv konsumieren)
+
+VERARBEITUNG (25 min)
+  ├─ Obsidian Notiz erstellen
+  ├─ Konzepte verlinken (Zettelkasten)
+  └─ Anki-Karten erstellen (3-5 Stück)
+
+PAUSE (10 min)
+  └─ Weg vom Bildschirm!
+
+ANWENDUNG (35 min)
+  ├─ Code schreiben
+  ├─ Übungen machen
+  └─ Mini-Projekt arbeiten
 ```
 
-**Total Hours:** 0 / 2,800h (Core Path) | 0 / 6,112h (Complete)
+---
+
+## 📊 Fortschritts-Tracking
+
+### Empfohlene Tools
+
+- **Obsidian** – Zettelkasten & Daily Notes
+- **Anki** – Spaced Repetition
+- **GitHub** – Learning in Public & Projekte
+- **Notion/Airtable** – Projekt-Management
+- **Toggl** – Zeiterfassung
+
+### Weekly Review (jeden Freitag/Sonntag)
+
+- Wochenziele Review
+- Neue Atomic Notes zählen
+- Anki Stats analysieren
+- Nächste Woche planen
+- Energie-Level reflektieren
 
 ---
 
-### This Month's Focus
+## 🚀 Sofort-Start Guide
 
-**Current Sprint:** [Month Name] [Year]
+### Woche 1 – Die ersten 14 Stunden
 
-**Primary Goals:**
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+**Tag 1-2 (4h):**
+- Python Mega Course starten (erste 3-4 Lektionen)
+- GitHub Profil optimieren
+- Learning in Public starten
 
-**Skills in Focus:**
-- Skill 1 (Xh planned)
-- Skill 2 (Xh planned)
-- Skill 3 (Xh planned)
+**Tag 3-4 (4h):**
+- Python weiter (Lektion 5-8)
+- Udacity Customer Discovery Kurs starten
+- Erstes Customer Interview vorbereiten
 
-**Projects:**
-- [ ] Project 1
-- [ ] Project 2
+**Tag 5-6 (4h):**
+- Python erste Übungen
+- The Mom Test Buch – Kapitel 1-2
+- Erstes Customer Interview durchführen!
 
-[View detailed tracker →](./docs/progress-tracker.md)
-
----
-
-## 🎯 Success Metrics
-
-### Learning Velocity Targets
-- ✅ **Weekly:** 14 hours minimum (no exceptions)
-- ✅ **Monthly:** 60 hours average
-- ✅ **Quarterly:** 180 hours minimum
-- ✅ **Projects:** 1 substantial project per month
-- ✅ **Books:** 2-3 books per month
-- ✅ **Courses:** 1 major course per quarter
+**Tag 7 (2h):**
+- Weekly Review
+- Obsidian Vault einrichten
+- Woche 2 planen
 
 ---
 
-### Business Impact Milestones
+## 💡 Wichtige Prinzipien
 
-**Year 1 Targets:**
-- [ ] First SaaS MVP deployed
-- [ ] 10+ beta users
-- [ ] First paying customer
-- [ ] $1k MRR
+### ✅ DO's
 
-**Year 2 Targets:**
-- [ ] $10k MRR OR AI/SaaS job secured
-- [ ] 100+ customers
-- [ ] First acquisition target analyzed
-- [ ] Wall Street Prep completed
+- **Konsistenz > Intensität** – 2h täglich schlägt 14h am Wochenende
+- **Building beats Reading** – Projekte > nur Bücher
+- **Public beats Private** – Learning in Public für Accountability
+- **Depth beats Breadth** – Weniger Ressourcen, aber richtig durcharbeiten
+- **Review beats Cramming** – Spaced Repetition ist nicht optional
 
-**Year 3 Targets:**
-- [ ] $50k MRR OR senior position
-- [ ] First M&A model from scratch
-- [ ] PE networking active
-- [ ] Fundraising experience
+### ❌ DON'Ts
 
-**Year 4-5 Targets:**
-- [ ] Exit opportunity OR PE-ready profile
-- [ ] First acquisition OR PE job offer
-- [ ] Portfolio of 2+ SaaS products
-- [ ] Recognized expert in niche
+- **Tutorial Hell** – Nicht 10 Kurse zum selben Thema
+- **Perfectionism** – Imperfect Action > Perfect Planning
+- **Comparison** – Dein Weg ist einzigartig, nicht vergleichen
+- **Shortcuts** – Es gibt keine Abkürzung zu 4 Jahren Expertise
+- **Isolation** – Community ist essentiell (Twitter, Discord, etc.)
 
 ---
 
-## 💪 Competitive Advantages
+## 🤝 Community & Support
 
-### Already in Arsenal ✅
-- ✅ 80% of technical books (~$1,200 value, 800h saved)
-- ✅ Complete leadership library (~$600 value, 300h saved)
-- ✅ Quant/trading expertise (unique differentiator)
-- ✅ Cybersecurity background (security moat)
-- ✅ Proven ultralearning capability
-- ✅ German/English bilingual (EU market access)
+### Empfohlene Communities
 
-### Developing Now 🔄
-- 🔄 Financial modeling mastery
-- 🔄 M&A & valuation expertise
-- 🔄 Hands-on SaaS experience
-- 🔄 PE network & relationships
-- 🔄 AI/ML production skills
+- **Y Combinator Startup School** – Founder Community
+- **Indie Hackers** – Bootstrap Founders
+- **DeepLearning.AI Community** – ML/AI Lerner
+- **QuantNet** – Quant Finance Community
+- **Reddit:** r/learnmachinelearning, r/cscareerquestions
+- **Discord:** fast.ai, Anthropic, diverse ML/AI Server
 
----
+### Content Creator zum Folgen
 
-## 📅 Weekly Schedule Templates
-
-### Template A: Morning Focus (Recommended)
-**Monday - Friday (10h total)**
-- 05:00-06:00: Study (1h × 5 = 5h)
-- 20:00-21:00: Practice/Build (1h × 5 = 5h)
-
-**Saturday (4h)**
-- 09:00-11:00: Project work (2h)
-- 14:00-16:00: Business study (2h)
-
-**Sunday:** Rest & weekly review
+- **Andrej Karpathy** (AI/ML)
+- **Andrew Ng** (ML Education)
+- **Paul Graham** (Startups)
+- **Aswath Damodaran** (Valuation)
+- **Marcos Lopez de Prado** (Financial ML)
+- **Ernest Chan** (Quant Trading)
 
 ---
 
-### Template B: Weekend Warrior
-**Monday - Friday (6h total)**
-- 20:00-21:15: Evening session (1.2h × 5 = 6h)
+## 📖 Zusätzliche Ressourcen
 
-**Saturday (4h)**
-- 08:00-12:00: Deep work block (4h)
+### Blogs & Newsletters
 
-**Sunday (4h)**
-- 14:00-18:00: Project sprint (4h)
+- Paul Graham Essays (paulgraham.com)
+- Aswath Damodaran Blog
+- Stratechery (Ben Thompson)
+- Not Boring (Packy McCormick)
+- Machine Learning Mastery (Jason Brownlee)
 
----
+### Podcasts
 
-### Template C: Flexible
-**High-Intensity Days:** 3-4h sessions
-**Low-Intensity Days:** 1h maintenance
-**Weekly Total:** Always hit 14h minimum
-
-[View more templates →](./docs/schedules.md)
-
----
-
-## 🔥 The APEX Principles
-
-### The 5 Non-Negotiables
-
-1. **⏰ Consistency Over Intensity**
-   - 14h EVERY week beats 40h once a month
-   - Never skip more than 1 day
-   - Minimum viable session: 30 minutes
-
-2. **🎯 Focus on High-Impact**
-   - 80/20 rule ruthlessly applied
-   - Critical skills only in Phase 1
-   - No tutorial hell, build real projects
-
-3. **🛠️ Build > Consume**
-   - 70% doing, 30% learning
-   - Every skill = 1 concrete project
-   - Public shipping builds credibility
-
-4. **🔄 Review & Iterate**
-   - Weekly: What worked? What didn't?
-   - Monthly: Am I on track?
-   - Quarterly: Adjust strategy
-
-5. **🧘 Strategic Recovery**
-   - 1 week off every 3 months
-   - Prevent burnout before it starts
-   - Return stronger, not depleted
+- Lex Fridman Podcast
+- Invest Like the Best
+- Acquired
+- The Changelog
+- Talk Python To Me
 
 ---
 
-## 🚨 Risk Management & Mitigation
+## ⚠️ Wichtige Hinweise
 
-### Top 5 Risks
+### Realistische Erwartungen
 
-| Risk | Probability | Impact | Mitigation Strategy |
-|------|-------------|--------|---------------------|
-| **Burnout** | High | Critical | Mandatory rest weeks, 14h max |
-| **Lost Motivation** | Medium | High | Monthly milestone reviews, public accountability |
-| **Financial Pressure** | Medium | High | Job-securing skills first, side income parallel |
-| **Analysis Paralysis** | Medium | Medium | "Just ship something" rule, 2-week build cycles |
-| **Skill Obsolescence** | Low | Medium | Focus on fundamentals, monitor trends monthly |
+- **4 Jahre sind 4 Jahre** – Es gibt keine Abkürzung
+- **14h/Woche ist ambitioniert** – aber machbar mit Disziplin
+- **Motivation schwankt** – Systeme schlagen Motivation
+- **Plateaus sind normal** – Durchhalten wird belohnt
+- **Scheitern gehört dazu** – Jeder Expert war mal Anfänger
 
-### Emergency Protocols
+### Anpassungen erlaubt
 
-**If motivation drops:**
-1. Review "Why I Started" document
-2. Connect with accountability partner
-3. Take 3-day break (guilt-free)
-4. Return with smaller, easier wins
+Dieser Plan ist ein **Framework**, kein Gesetz:
+- Passe Geschwindigkeit an deine Situation an
+- Skip Ressourcen die nicht passen
+- Add Ressourcen die du entdeckst
+- Spezialisiere früher wenn nötig
 
-**If falling behind:**
-1. Recalibrate to Core Path (2,800h)
-2. Focus on critical skills only
-3. Extend timeline if needed
-4. Never compromise on quality
+**Wichtig:** Behalte die **Prerequisites-Reihenfolge** bei!
 
 ---
 
-## 🤝 Community & Accountability
+## 📝 Changelog
 
-### Public Commitments
-- [ ] Weekly Twitter/X updates
-- [ ] Monthly progress blog posts
-- [ ] Quarterly project showcases
-- [ ] Annual roadmap review
+### Version 2.0 (Januar 2026)
+- ✅ 13 Quant Finance Bücher integriert
+- ✅ 4 neue Quant Skills (#35-38) hinzugefügt
+- ✅ Reihenfolge optimiert für Prerequisites
+- ✅ Gesamtzeit neu berechnet: 2.744h (~4 Jahre)
+- ✅ Parallel-Tracks für Tech + Business + Quant
 
-### Accountability Partners
-- [ ] Find 2-3 learning partners
-- [ ] Weekly check-ins
-- [ ] Shared progress tracker
-- [ ] Mutual code/work reviews
-
-### Building in Public
-- 💻 GitHub: All projects open source
-- 🐦 Twitter: Daily learning insights
-- 📝 Blog: Deep dives & tutorials
-- 💼 LinkedIn: Professional milestones
+### Version 1.0 (Januar 2026)
+- Initial Release mit 34 Skills
+- AI/SaaS/PE Fokus
+- 2.174h (~3,1 Jahre)
 
 ---
 
-## 📞 Connect & Collaborate
+## 📄 Lizenz & Verwendung
 
-Building this journey in public. Let's connect:
+Dieser Lernplan ist **frei verfügbar** für persönliche Nutzung.
 
-- 💼 **LinkedIn:** [Your Profile]
-- 🐦 **Twitter/X:** [Your Handle]
-- 📝 **Blog:** [Your Blog]
-- 💻 **GitHub:** [Your GitHub]
-- 📧 **Email:** [Your Email]
+**Du darfst:**
+- ✅ Plan für dich selbst nutzen
+- ✅ Anpassen an deine Bedürfnisse
+- ✅ Mit anderen teilen
 
-**Open to:**
-- Accountability partnerships
-- Project collaborations
-- Resource recommendations
-- Feedback & advice
+**Bitte:**
+- 📌 Gib Credit wenn du öffentlich teilst
+- 💬 Teile deine Erfahrungen und Verbesserungen
+- 🤝 Hilf anderen in der Community
 
 ---
 
-## 📈 Version History
+## 🎯 Abschließende Gedanken
 
-- **v1.0** (Jan 2026): Initial roadmap created
-- **v1.1** (Jan 2026): Added progress tracker
-- **v1.2** (Jan 2026): Resource library expanded
-- **Current:** Actively refining based on progress
+### Warum dieser Plan existiert
 
----
+Dieser Plan kombiniert vier hochspezialisierte Bereiche, die selten zusammen gelehrt werden:
 
-## 📜 License
+- **AI Engineering** – Die Zukunft der Technologie
+- **SaaS Architecture** – Wie moderne Software gebaut wird
+- **Private Equity** – Wie Unternehmen bewertet und transformiert werden
+- **Quantitative Finance** – Wie Märkte mathematisch modelliert werden
 
-This learning roadmap is shared under **MIT License**.
+Die Kombination dieser Skills ist **extrem selten** und **extrem wertvoll**.
 
-**You are free to:**
-- ✅ Use for personal learning
-- ✅ Modify and adapt
-- ✅ Share with attribution
-- ❌ Commercial use without permission
+### Das Ziel
 
-**Attribution:** Please link back to this repository if sharing publicly.
+Nach 4 Jahren intensivem, strukturiertem Lernen wirst du:
+- Komplexe AI-Systeme bauen und in Production bringen können
+- Skalierbare SaaS-Architekturen designen können
+- Unternehmen bewerten und M&A-Prozesse führen können
+- Options preisen und Trading-Strategien entwickeln können
 
----
-
-## 🙏 Acknowledgments & Inspiration
-
-**Learning Methodologies:**
-- Scott H. Young - "Ultralearning"
-- Josh Kaufman - "The First 20 Hours"
-- Tim Ferriss - "4-Hour" philosophy
-- Cal Newport - "Deep Work"
-
-**Technical Mentors:**
-- Andrew Ng - AI/ML approach
-- Jeremy Howard - Practical deep learning
-- Martin Kleppmann - System design
-
-**Business & Finance:**
-- Wall Street Prep - Financial modeling
-- Y Combinator - Startup wisdom
-- Naval Ravikant - Startup philosophy
-- Rosenbaum & Pearl - Investment banking
-
-**Standing on the shoulders of giants.** 🙏
+**Vor allem:** Du wirst **selbstständig weiterlernen** können, weil du gelernt hast **wie man lernt**.
 
 ---
 
-## 🎯 Quick Links
+## 🚀 Ready to Start?
 
-### Essential Documents
-- [📋 Detailed Skill Roadmap](./docs/skill-roadmap.md)
-- [📊 Progress Tracker](./docs/progress-tracker.md)
-- [🎯 Milestones & Goals](./docs/milestones.md)
-- [📚 Complete Resources](./docs/resources.md)
-- [📅 Schedule Templates](./docs/schedules.md)
-- [💰 Budget & ROI](./docs/budget.md)
+**Der beste Zeitpunkt zu starten war gestern.**  
+**Der zweitbeste ist jetzt.**
 
-### Weekly Templates
-- [📝 Weekly Review Template](./templates/weekly-review.md)
-- [📊 Monthly Progress Report](./templates/monthly-report.md)
-- [🎯 Quarterly Strategy](./templates/quarterly-strategy.md)
+1. ✅ Lies diesen Plan komplett durch
+2. ✅ Setup GitHub Profil
+3. ✅ Setup Obsidian Vault
+4. ✅ Install Anki
+5. ✅ Python Mega Course starten
+6. ✅ Ersten Daily Log schreiben
 
-### Project Documentation
-- [🛠️ Project Template](./templates/project-template.md)
-- [📖 Learning Log](./templates/learning-log.md)
-- [🏆 Wins Tracker](./templates/wins-tracker.md)
+**Und dann:** Einfach weitermachen. Tag für Tag. 14h/Woche. 4 Jahre.
+
+**Let's go! 🎯**
 
 ---
 
-<div align="center">
-
-## 🏔️ The Journey to APEX Begins Now
-
-**"The best time to plant a tree was 20 years ago. The second best time is now."**
-
----
-
-⭐ **Star this repo** to track your own journey  
-🔔 **Watch** for updates and progress reports  
-🍴 **Fork** to create your own APEX roadmap  
-💬 **Discuss** in Issues/Discussions
-
----
-
-**START DATE:** [Your Date Here]  
-**TARGET DATE:** [Your Target Date]  
-**STATUS:** 🟢 Active Learning
-
----
-
-### Current Phase: Foundation
-### Current Focus: [Your Current Focus]
-### Hours This Week: 0/14
-### Total Progress: 0%
-
----
-
-*This is PROJECT APEX. Excellence is not a destination, it's a way of traveling.* 🚀
-
-**Let's reach the summit together.** 🏔️
-
-</div>
+*Viel Erfolg auf deiner Reise zur Elite-Level Expertise!*
