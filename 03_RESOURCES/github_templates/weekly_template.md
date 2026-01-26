@@ -8,7 +8,7 @@
 
 **Week [Number] | [Start Date] - [End Date]**
 
-[🏠 Back to Main](../README.md) • [📊 Full Progress](../docs/progress-tracker.md)
+[🏠 Back to Main](1_Projects/Meine%20Vision/APEX-Ultralearning-Roadmap/README.md) • [📊 Full Progress](../docs/progress-tracker.md)
 
 </div>
 
@@ -401,7 +401,7 @@ Sun: ⭐⭐⭐⭐⭐
 
 **Next Week Focus:** [One sentence summary]
 
-[🏠 Back to Main README](../README.md)
+[🏠 Back to Main README](1_Projects/Meine%20Vision/APEX-Ultralearning-Roadmap/README.md)
 
 ---
 
