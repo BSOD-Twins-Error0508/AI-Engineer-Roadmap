@@ -20,7 +20,6 @@ Dieser Lernplan kombiniert vier hochspezialisierte Bereiche zu einem kohärenten
 
 Dieser Plan richtet sich an ambitionierte Lerner, die:
 - Eine umfassende technische und finanzielle Expertise aufbauen wollen
-- An der Schnittstelle von Technologie und Finance arbeiten möchten
 - Einen strukturierten, wissenschaftlich fundierten Lernweg suchen
 - Bereit sind, 14h/Woche über mehrere Jahre zu investieren
 
