@@ -101,11 +101,11 @@
 ### **SKILL 2: Customer Discovery**
 **⏱️ TOP 2 KERNZEIT: 37h** *(25h + 12h)*
 
-| # | Ressource | Typ | Zeit | Priorität | Begründung |
-|---|-----------|-----|------|-----------|------------|
-| 1 | **Customer Discovery** – Udacity | Kurs | 25h | 🥇 🎓 | Steve Blank, KOSTENLOS |
-| 2 | ❌ **Lean Customer Development** – Alvarez | Buch | 12h | 🥈 | Ergänzung |
-| 3 | ❌ Talking to Humans | PDF | 4h | 🥈 | GRATIS |
+| #   | Ressource                                 | Typ  | Zeit | Priorität | Begründung             |
+| --- | ----------------------------------------- | ---- | ---- | --------- | ---------------------- |
+| 1   | **Customer Discovery** – Udacity          | Kurs | 25h  | 🥇 🎓     | Steve Blank, KOSTENLOS |
+| 2   | ❌ **Lean Customer Development** – Alvarez | Buch | 12h  | 🥈        | Ergänzung              |
+| 3   | ❌ Talking to Humans                       | PDF  | 4h   | 🥈        | GRATIS                 |
 
 **📌 EMPFEHLUNG:**
 1. **Udacity Kurs** (KOSTENLOS)
@@ -289,13 +289,13 @@
 ### **SKILL 12: Financial Modeling (Excel, DCF)**
 **⏱️ TOP 2 KERNZEIT: 180h** *(150h + 30h)*
 
-| # | Ressource | Typ | Zeit | Priorität | Begründung |
-|---|-----------|-----|------|-----------|------------|
-| 1 | **Wall Street Prep Premium** | Kurs | 150h | 🥇 🎓 | INDUSTRY STANDARD, ~499$ |
-| 2 | ❌ **FM & Valuation** – Pignataro | Buch | 30h | 🥇 | PFLICHT besorgen |
-| 3 | ❌ **Investment Banking** – Rosenbaum | Buch | 40h | 🥈 | IB-Bibel |
-| 4 | FMVA Certification – CFI | Kurs | 200h | 🥈 | Alternative zu WSP |
-| 5 | FM Fundamentals – CFI | Kurs | 20h | 🥉 | Kostenlos |
+| #   | Ressource                            | Typ  | Zeit | Priorität | Begründung               |
+| --- | ------------------------------------ | ---- | ---- | --------- | ------------------------ |
+| 1   | **Wall Street Prep Premium**         | Kurs | 150h | 🥇 🎓     | INDUSTRY STANDARD, ~499$ |
+| 2   | ❌ **FM & Valuation** – Pignataro     | Buch | 30h  | 🥇        | PFLICHT besorgen         |
+| 3   | ❌ **Investment Banking** – Rosenbaum | Buch | 40h  | 🥈        | IB-Bibel                 |
+| 4   | FMVA Certification – CFI             | Kurs | 200h | 🥈        | Alternative zu WSP       |
+| 5   | FM Fundamentals – CFI                | Kurs | 20h  | 🥉        | Kostenlos                |
 
 **📌 EMPFEHLUNG:**
 1. **Wall Street Prep** (DIE Investition!)
@@ -306,13 +306,13 @@
 ### **SKILL 13: Company Valuation (Multiples, LBO)**
 **⏱️ TOP 2 KERNZEIT: 90h** *(40h + 50h)*
 
-| # | Ressource | Typ | Zeit | Priorität | Begründung |
-|---|-----------|-----|------|-----------|------------|
-| 1 | **Valuation** – Damodaran (YouTube) | Kurs | 40h | 🥇 🎓 | DER Professor, KOSTENLOS |
-| 2 | ❌ **Valuation** – McKinsey | Buch | 50h | 🥇 | Standardwerk |
-| 3 | WSP Premium | Kurs | 100h | 🥈 | In #12 enthalten |
-| 4 | ❌ Little Book of Valuation | Buch | 10h | 🥉 | Kurzversion |
-| 5 | BIWS | Kurs | 120h | ⏭️ | WSP ist besser |
+| #   | Ressource                           | Typ  | Zeit | Priorität | Begründung               |
+| --- | ----------------------------------- | ---- | ---- | --------- | ------------------------ |
+| 1   | **Valuation** – Damodaran (YouTube) | Kurs | 40h  | 🥇 🎓     | DER Professor, KOSTENLOS |
+| 2   | ❌ **Valuation** – McKinsey          | Buch | 50h  | 🥇        | Standardwerk             |
+| 3   | WSP Premium                         | Kurs | 100h | 🥈        | In #12 enthalten         |
+| 4   | ❌ Little Book of Valuation          | Buch | 10h  | 🥉        | Kurzversion              |
+| 5   | BIWS                                | Kurs | 120h | ⏭️        | WSP ist besser           |
 
 **📌 EMPFEHLUNG:**
 1. **Damodaran YouTube** (KOSTENLOS!)
